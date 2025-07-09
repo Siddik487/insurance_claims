@@ -1,0 +1,1001 @@
+claim_id,policy_number,customer_age,gender,occupation,vehicle_type,vehicle_age,incident_type,incident_location,claim_amount,days_to_report,police_report,witness_present,claim_to_vehicle_value_ratio,label
+C3000,P9000,58,Male,Engineer,Truck,4,Theft,Los Angeles,49065,1,No,No,5.45,1
+C3001,P9001,61,Male,Lawyer,Convertible,1,Theft,New York,15128,3,No,No,2.52,1
+C3002,P9002,50,Male,Lawyer,Sedan,12,Fire,Boston,36513,6,No,No,2.15,1
+C3003,P9003,32,Female,Lawyer,Truck,13,Theft,Los Angeles,46553,6,No,No,2.59,1
+C3004,P9004,39,Female,Teacher,Sedan,13,Collision,New York,6878,6,No,No,0.38,1
+C3005,P9005,24,Female,Businessman,Truck,10,Collision,New York,48623,7,No,No,3.24,1
+C3006,P9006,52,Male,Student,SUV,9,Collision,Boston,41335,5,No,No,2.95,1
+C3007,P9007,54,Male,Doctor,SUV,1,Fire,Los Angeles,51463,4,No,No,8.58,1
+C3008,P9008,23,Male,Businessman,SUV,7,Collision,Miami,42460,5,No,No,3.54,1
+C3009,P9009,28,Female,Retired,Sedan,11,Collision,Boston,45596,1,No,No,2.85,1
+C3010,P9010,56,Male,Lawyer,Sedan,3,Collision,Miami,18491,3,No,No,2.31,1
+C3011,P9011,61,Female,Businessman,SUV,4,Theft,Chicago,27090,4,No,No,3.01,1
+C3012,P9012,22,Male,Lawyer,Truck,4,Fire,Miami,26728,7,No,No,2.97,1
+C3013,P9013,27,Female,Teacher,Sedan,12,Fire,Dallas,18019,6,No,No,1.06,1
+C3014,P9014,55,Female,Retired,Sedan,3,Fire,Miami,6757,0,No,No,0.84,1
+C3015,P9015,25,Male,Doctor,Sedan,13,Fire,Miami,39886,1,No,No,2.22,1
+C3016,P9016,42,Female,Lawyer,Convertible,9,Collision,Dallas,57212,0,No,No,4.09,1
+C3017,P9017,61,Male,Doctor,Truck,13,Fire,Chicago,8110,4,No,No,0.45,1
+C3018,P9018,45,Male,Student,SUV,12,Fire,Chicago,33606,2,No,No,1.98,1
+C3019,P9019,50,Male,Businessman,Truck,14,Fire,Dallas,40709,3,No,No,2.14,1
+C3020,P9020,27,Female,Businessman,Sedan,9,Fire,New York,40052,5,No,No,2.86,1
+C3021,P9021,49,Male,Engineer,Truck,15,Collision,Los Angeles,4596,3,No,No,0.23,1
+C3022,P9022,54,Male,Engineer,Convertible,14,Theft,Dallas,50989,2,No,No,2.68,1
+C3023,P9023,26,Female,Lawyer,Sedan,5,Fire,Dallas,28530,3,No,No,2.85,1
+C3024,P9024,52,Male,Doctor,Truck,7,Fire,Boston,25272,7,No,No,2.11,1
+C3025,P9025,51,Female,Engineer,Sedan,4,Theft,Chicago,2178,3,No,No,0.24,1
+C3026,P9026,55,Male,Engineer,SUV,12,Fire,New York,15803,1,No,No,0.93,1
+C3027,P9027,20,Female,Engineer,Sedan,5,Fire,Miami,14840,2,No,No,1.48,1
+C3028,P9028,64,Female,Teacher,Convertible,13,Collision,Los Angeles,6981,1,No,No,0.39,1
+C3029,P9029,60,Female,Retired,Convertible,7,Collision,Boston,4350,1,No,No,0.36,1
+C3030,P9030,21,Female,Doctor,Truck,13,Theft,Los Angeles,13356,3,No,No,0.74,1
+C3031,P9031,52,Female,Teacher,Convertible,3,Collision,Miami,17171,1,No,No,2.15,1
+C3032,P9032,46,Male,Engineer,SUV,2,Theft,Los Angeles,27434,7,No,No,3.92,1
+C3033,P9033,48,Male,Businessman,Convertible,15,Theft,Los Angeles,25636,0,No,No,1.28,1
+C3034,P9034,42,Female,Businessman,Convertible,5,Collision,Boston,48674,7,No,No,4.87,1
+C3035,P9035,27,Male,Retired,Sedan,1,Fire,Boston,36333,0,No,No,6.06,1
+C3036,P9036,65,Female,Engineer,SUV,10,Collision,Dallas,56683,2,No,No,3.78,1
+C3037,P9037,21,Male,Businessman,Sedan,2,Fire,New York,45050,3,No,No,6.44,1
+C3038,P9038,43,Male,Lawyer,Sedan,10,Fire,New York,41391,1,No,No,2.76,1
+C3039,P9039,44,Female,Retired,Sedan,11,Fire,Chicago,16442,4,No,No,1.03,1
+C3040,P9040,43,Male,Doctor,Truck,8,Collision,New York,1410,7,No,No,0.11,1
+C3041,P9041,57,Male,Engineer,Sedan,9,Collision,Los Angeles,23672,1,No,No,1.69,1
+C3042,P9042,33,Female,Retired,Sedan,8,Fire,Boston,20625,0,No,No,1.59,1
+C3043,P9043,60,Female,Doctor,SUV,15,Theft,Chicago,8364,1,No,No,0.42,1
+C3044,P9044,65,Male,Retired,Truck,10,Theft,Boston,23271,3,No,No,1.55,1
+C3045,P9045,61,Female,Lawyer,Convertible,5,Theft,New York,42368,6,No,No,4.24,1
+C3046,P9046,35,Male,Engineer,Truck,13,Theft,Boston,17967,2,No,No,1.0,1
+C3047,P9047,65,Female,Lawyer,Convertible,9,Theft,New York,5731,2,No,No,0.41,1
+C3048,P9048,52,Male,Businessman,Truck,10,Fire,Los Angeles,28966,2,No,No,1.93,1
+C3049,P9049,20,Female,Retired,SUV,15,Collision,Los Angeles,45499,3,No,No,2.27,1
+C3050,P9050,60,Male,Retired,Convertible,10,Fire,Los Angeles,16314,2,No,No,1.09,1
+C3051,P9051,69,Male,Student,SUV,3,Fire,Chicago,52074,6,No,No,6.51,1
+C3052,P9052,69,Male,Retired,Sedan,13,Fire,New York,25870,0,No,No,1.44,1
+C3053,P9053,48,Male,Teacher,Convertible,6,Collision,Los Angeles,15409,0,No,No,1.4,1
+C3054,P9054,60,Male,Student,Truck,5,Theft,Chicago,23812,6,No,No,2.38,1
+C3055,P9055,61,Female,Engineer,SUV,15,Collision,Los Angeles,38849,4,No,No,1.94,1
+C3056,P9056,20,Male,Lawyer,Convertible,6,Fire,Chicago,29399,1,No,No,2.67,1
+C3057,P9057,42,Male,Retired,SUV,12,Collision,New York,34873,3,No,No,2.05,1
+C3058,P9058,41,Female,Engineer,Truck,10,Collision,Boston,56375,1,No,No,3.76,1
+C3059,P9059,64,Female,Lawyer,Truck,11,Collision,Chicago,27171,4,No,No,1.7,1
+C3060,P9060,53,Male,Teacher,Convertible,11,Collision,Boston,49829,2,No,No,3.11,1
+C3061,P9061,57,Female,Student,SUV,5,Collision,Los Angeles,28973,5,No,No,2.9,1
+C3062,P9062,47,Female,Student,Sedan,9,Collision,Boston,11920,1,No,No,0.85,1
+C3063,P9063,36,Female,Engineer,Sedan,11,Collision,Los Angeles,53658,3,No,No,3.35,1
+C3064,P9064,27,Male,Engineer,Sedan,8,Fire,New York,30646,6,No,No,2.36,1
+C3065,P9065,58,Male,Doctor,Convertible,8,Collision,Los Angeles,10471,0,No,No,0.81,1
+C3066,P9066,66,Male,Businessman,Convertible,4,Theft,Boston,34744,7,No,No,3.86,1
+C3067,P9067,21,Male,Businessman,SUV,8,Theft,Miami,44550,5,No,No,3.43,1
+C3068,P9068,66,Female,Lawyer,Convertible,14,Fire,Miami,59599,2,No,No,3.14,1
+C3069,P9069,65,Female,Student,Truck,13,Theft,Boston,18973,7,No,No,1.05,1
+C3070,P9070,58,Male,Retired,Convertible,2,Fire,Chicago,16167,4,No,No,2.31,1
+C3071,P9071,39,Female,Lawyer,SUV,3,Theft,Los Angeles,25902,2,No,No,3.24,1
+C3072,P9072,63,Male,Engineer,Convertible,7,Collision,Dallas,31334,6,No,No,2.61,1
+C3073,P9073,21,Male,Businessman,Convertible,7,Fire,Boston,2080,6,No,No,0.17,1
+C3074,P9074,48,Male,Retired,Truck,13,Collision,Miami,36072,3,No,No,2.0,1
+C3075,P9075,49,Male,Retired,Convertible,8,Theft,Miami,22828,6,No,No,1.76,1
+C3076,P9076,64,Male,Businessman,Convertible,15,Theft,Dallas,35804,0,No,No,1.79,1
+C3077,P9077,43,Male,Engineer,Convertible,3,Collision,Los Angeles,4095,4,No,No,0.51,1
+C3078,P9078,42,Female,Teacher,Convertible,6,Collision,Miami,19035,6,No,No,1.73,1
+C3079,P9079,34,Male,Student,SUV,12,Fire,New York,23735,3,No,No,1.4,1
+C3080,P9080,59,Male,Businessman,SUV,13,Theft,Los Angeles,13865,0,No,No,0.77,1
+C3081,P9081,57,Male,Teacher,Sedan,8,Fire,New York,37760,3,No,No,2.9,1
+C3082,P9082,47,Female,Businessman,Truck,3,Fire,Dallas,49816,1,No,No,6.23,1
+C3083,P9083,67,Male,Retired,SUV,10,Theft,Chicago,38535,6,No,No,2.57,1
+C3084,P9084,43,Male,Engineer,Sedan,2,Fire,Chicago,56524,1,No,No,8.07,1
+C3085,P9085,68,Male,Retired,Convertible,11,Collision,New York,33958,5,No,No,2.12,1
+C3086,P9086,18,Female,Businessman,Convertible,2,Collision,Chicago,42453,7,No,No,6.06,1
+C3087,P9087,63,Male,Student,Sedan,12,Fire,Boston,18500,7,No,No,1.09,1
+C3088,P9088,47,Female,Businessman,Truck,6,Theft,New York,19079,7,No,No,1.73,1
+C3089,P9089,33,Female,Lawyer,Convertible,6,Theft,Miami,56568,5,No,No,5.14,1
+C3090,P9090,29,Female,Teacher,Truck,13,Collision,Chicago,19127,4,No,No,1.06,1
+C3091,P9091,53,Male,Lawyer,Sedan,2,Theft,Boston,27435,7,No,No,3.92,1
+C3092,P9092,53,Male,Doctor,Convertible,11,Fire,Miami,30171,0,No,No,1.89,1
+C3093,P9093,23,Female,Teacher,Convertible,12,Theft,Chicago,44313,5,No,No,2.61,1
+C3094,P9094,48,Female,Student,Truck,6,Fire,Miami,18554,4,No,No,1.69,1
+C3095,P9095,34,Male,Engineer,Sedan,6,Theft,Boston,35918,2,No,No,3.27,1
+C3096,P9096,30,Male,Doctor,Convertible,5,Fire,Dallas,50620,4,No,No,5.06,1
+C3097,P9097,24,Male,Retired,Sedan,6,Theft,Chicago,1727,2,No,No,0.16,1
+C3098,P9098,35,Male,Engineer,Truck,12,Theft,Boston,57715,7,No,No,3.4,1
+C3099,P9099,24,Male,Lawyer,Truck,8,Collision,Miami,23128,2,No,No,1.78,1
+C3100,P9100,21,Female,Businessman,Convertible,2,Theft,Miami,33027,1,No,No,4.72,1
+C3101,P9101,54,Male,Teacher,Sedan,13,Fire,Chicago,6382,3,No,No,0.35,1
+C3102,P9102,25,Female,Lawyer,Sedan,13,Fire,Miami,30324,7,No,No,1.68,1
+C3103,P9103,37,Female,Retired,SUV,10,Fire,New York,50786,3,No,No,3.39,1
+C3104,P9104,58,Male,Retired,SUV,3,Theft,Los Angeles,36975,1,No,No,4.62,1
+C3105,P9105,28,Male,Student,Convertible,12,Fire,Miami,19887,0,No,No,1.17,1
+C3106,P9106,32,Female,Doctor,Truck,12,Collision,New York,45848,3,No,No,2.7,1
+C3107,P9107,34,Male,Student,SUV,9,Theft,Boston,10564,4,No,No,0.75,1
+C3108,P9108,70,Male,Engineer,SUV,3,Collision,Dallas,49883,4,No,No,6.24,1
+C3109,P9109,46,Male,Student,Truck,12,Collision,Chicago,33598,7,No,No,1.98,1
+C3110,P9110,46,Male,Lawyer,SUV,15,Collision,Boston,21923,4,No,No,1.1,1
+C3111,P9111,19,Male,Teacher,SUV,13,Fire,Chicago,38564,0,No,No,2.14,1
+C3112,P9112,66,Male,Student,Convertible,15,Collision,Los Angeles,39160,6,No,No,1.96,1
+C3113,P9113,58,Female,Engineer,Convertible,6,Collision,Chicago,21840,1,No,No,1.99,1
+C3114,P9114,28,Female,Student,Convertible,5,Fire,Miami,54117,0,No,No,5.41,1
+C3115,P9115,47,Male,Retired,Truck,6,Theft,Miami,57482,0,No,No,5.23,1
+C3116,P9116,60,Female,Student,SUV,4,Fire,Chicago,41604,7,No,No,4.62,1
+C3117,P9117,58,Female,Businessman,SUV,4,Collision,Dallas,9386,4,No,No,1.04,1
+C3118,P9118,46,Female,Engineer,SUV,11,Fire,Los Angeles,47316,2,No,No,2.96,1
+C3119,P9119,37,Male,Lawyer,Convertible,2,Theft,New York,31041,1,No,No,4.43,1
+C3120,P9120,59,Male,Student,Truck,9,Fire,Chicago,28029,7,No,No,2.0,1
+C3121,P9121,48,Male,Student,Sedan,7,Theft,Dallas,34108,2,No,No,2.84,1
+C3122,P9122,22,Female,Businessman,Convertible,6,Fire,Chicago,54575,0,No,No,4.96,1
+C3123,P9123,36,Female,Businessman,Convertible,14,Theft,Miami,36096,7,No,No,1.9,1
+C3124,P9124,40,Female,Lawyer,Convertible,8,Collision,Los Angeles,46511,3,No,No,3.58,1
+C3125,P9125,54,Female,Teacher,Convertible,1,Collision,Boston,31796,6,No,No,5.3,1
+C3126,P9126,42,Male,Student,SUV,3,Fire,Dallas,22557,1,No,No,2.82,1
+C3127,P9127,46,Male,Lawyer,Convertible,1,Fire,Los Angeles,27668,2,No,No,4.61,1
+C3128,P9128,22,Female,Businessman,Truck,6,Fire,Boston,26849,1,No,No,2.44,1
+C3129,P9129,39,Female,Retired,Convertible,14,Fire,New York,41265,1,No,No,2.17,1
+C3130,P9130,33,Female,Teacher,SUV,7,Theft,Boston,46930,1,No,No,3.91,1
+C3131,P9131,46,Male,Doctor,Truck,15,Theft,New York,22058,0,No,No,1.1,1
+C3132,P9132,36,Female,Retired,Convertible,3,Theft,Dallas,27804,2,No,No,3.48,1
+C3133,P9133,28,Male,Engineer,Convertible,10,Fire,Los Angeles,33415,2,No,No,2.23,1
+C3134,P9134,32,Female,Doctor,Truck,8,Collision,Boston,1415,7,No,No,0.11,1
+C3135,P9135,36,Male,Engineer,Convertible,6,Fire,Chicago,42673,6,No,No,3.88,1
+C3136,P9136,62,Female,Student,Truck,4,Collision,Miami,7789,3,No,No,0.87,1
+C3137,P9137,42,Female,Lawyer,Truck,12,Collision,New York,55197,6,No,No,3.25,1
+C3138,P9138,35,Male,Lawyer,SUV,15,Fire,Boston,33353,4,No,No,1.67,1
+C3139,P9139,67,Male,Lawyer,Truck,4,Fire,Los Angeles,41490,4,No,No,4.61,1
+C3140,P9140,61,Male,Doctor,SUV,15,Fire,Boston,3383,4,No,No,0.17,1
+C3141,P9141,68,Female,Engineer,Truck,12,Theft,New York,20140,5,No,No,1.18,1
+C3142,P9142,65,Female,Teacher,Sedan,3,Fire,Chicago,35589,4,No,No,4.45,1
+C3143,P9143,28,Female,Businessman,Convertible,13,Collision,Boston,57842,5,No,No,3.21,1
+C3144,P9144,69,Male,Student,SUV,3,Theft,Boston,48262,6,No,No,6.03,1
+C3145,P9145,69,Female,Engineer,Convertible,1,Collision,Dallas,8899,7,No,No,1.48,1
+C3146,P9146,41,Female,Lawyer,Convertible,14,Fire,Chicago,7900,3,No,No,0.42,1
+C3147,P9147,48,Male,Lawyer,Truck,15,Fire,Los Angeles,43244,1,No,No,2.16,1
+C3148,P9148,58,Female,Doctor,Truck,11,Collision,New York,9960,0,No,No,0.62,1
+C3149,P9149,20,Female,Student,SUV,2,Theft,Dallas,9690,6,No,No,1.38,1
+C3150,P9150,47,Female,Doctor,Convertible,10,Fire,Boston,10926,6,No,No,0.73,1
+C3151,P9151,59,Male,Businessman,Convertible,10,Collision,Chicago,2944,5,No,No,0.2,1
+C3152,P9152,31,Female,Student,Sedan,14,Collision,New York,45736,5,No,No,2.41,1
+C3153,P9153,52,Female,Engineer,Convertible,5,Theft,New York,56376,7,No,No,5.64,1
+C3154,P9154,23,Male,Doctor,SUV,1,Collision,Los Angeles,9052,3,No,No,1.51,1
+C3155,P9155,22,Male,Lawyer,Sedan,14,Theft,Chicago,51549,2,No,No,2.71,1
+C3156,P9156,68,Male,Retired,Sedan,3,Fire,Chicago,53131,2,No,No,6.64,1
+C3157,P9157,25,Male,Teacher,SUV,6,Theft,Dallas,22018,0,No,No,2.0,1
+C3158,P9158,29,Female,Engineer,Sedan,12,Collision,Dallas,8248,1,No,No,0.49,1
+C3159,P9159,48,Female,Businessman,Truck,9,Fire,New York,30422,3,No,No,2.17,1
+C3160,P9160,57,Male,Doctor,Truck,8,Fire,New York,4786,7,No,No,0.37,1
+C3161,P9161,43,Female,Doctor,SUV,8,Fire,Miami,5616,1,No,No,0.43,1
+C3162,P9162,38,Male,Engineer,Sedan,5,Fire,Boston,39162,5,No,No,3.92,1
+C3163,P9163,42,Female,Student,Convertible,2,Fire,New York,56688,3,No,No,8.1,1
+C3164,P9164,45,Female,Teacher,Convertible,6,Collision,Miami,28062,1,No,No,2.55,1
+C3165,P9165,38,Female,Retired,Truck,6,Theft,Boston,31881,1,No,No,2.9,1
+C3166,P9166,23,Male,Engineer,Convertible,2,Fire,Boston,25221,2,No,No,3.6,1
+C3167,P9167,53,Male,Lawyer,Truck,11,Theft,Miami,23973,6,No,No,1.5,1
+C3168,P9168,64,Male,Retired,Truck,6,Theft,Dallas,34053,3,No,No,3.1,1
+C3169,P9169,27,Female,Teacher,SUV,6,Fire,Chicago,8329,4,No,No,0.76,1
+C3170,P9170,54,Male,Businessman,Convertible,14,Fire,Dallas,41011,0,No,No,2.16,1
+C3171,P9171,56,Female,Engineer,Sedan,5,Fire,Chicago,23070,5,No,No,2.31,1
+C3172,P9172,18,Male,Businessman,Sedan,10,Fire,Miami,5360,2,No,No,0.36,1
+C3173,P9173,65,Male,Engineer,Sedan,7,Collision,Miami,23140,2,No,No,1.93,1
+C3174,P9174,41,Female,Doctor,Truck,13,Fire,Dallas,6367,0,No,No,0.35,1
+C3175,P9175,27,Male,Businessman,SUV,11,Theft,Chicago,29839,6,No,No,1.86,1
+C3176,P9176,49,Female,Student,Truck,4,Fire,New York,23421,6,No,No,2.6,1
+C3177,P9177,25,Female,Doctor,Convertible,9,Fire,Chicago,3776,3,No,No,0.27,1
+C3178,P9178,43,Male,Engineer,Sedan,5,Theft,Los Angeles,50880,4,No,No,5.09,1
+C3179,P9179,36,Female,Engineer,SUV,8,Fire,Miami,12314,2,No,No,0.95,1
+C3180,P9180,42,Male,Lawyer,Truck,2,Collision,Boston,3572,6,No,No,0.51,1
+C3181,P9181,19,Female,Engineer,Truck,10,Collision,Dallas,27304,6,No,No,1.82,1
+C3182,P9182,36,Male,Student,SUV,6,Theft,Dallas,30952,5,No,No,2.81,1
+C3183,P9183,23,Female,Businessman,SUV,4,Collision,Dallas,27043,1,No,No,3.0,1
+C3184,P9184,43,Female,Doctor,Truck,4,Collision,Los Angeles,5805,1,No,No,0.65,1
+C3185,P9185,51,Male,Businessman,Truck,6,Fire,Boston,54214,2,No,No,4.93,1
+C3186,P9186,33,Male,Teacher,Truck,4,Theft,Dallas,10818,1,No,No,1.2,1
+C3187,P9187,29,Female,Student,Convertible,11,Fire,Boston,42434,5,No,No,2.65,1
+C3188,P9188,58,Female,Teacher,Convertible,2,Collision,Miami,42178,4,No,No,6.03,1
+C3189,P9189,68,Female,Lawyer,SUV,6,Fire,New York,21142,7,No,No,1.92,1
+C3190,P9190,46,Male,Engineer,Truck,14,Collision,New York,43048,1,No,No,2.27,1
+C3191,P9191,57,Female,Student,SUV,8,Fire,Boston,13136,5,No,No,1.01,1
+C3192,P9192,56,Female,Lawyer,Sedan,1,Collision,New York,53947,5,No,No,8.99,1
+C3193,P9193,63,Male,Lawyer,Sedan,1,Theft,Boston,29488,7,No,No,4.91,1
+C3194,P9194,51,Male,Retired,Truck,15,Collision,Miami,27589,5,No,No,1.38,1
+C3195,P9195,61,Male,Businessman,Truck,2,Collision,New York,37366,6,No,No,5.34,1
+C3196,P9196,36,Female,Doctor,Sedan,6,Theft,Dallas,44290,2,No,No,4.03,1
+C3197,P9197,40,Female,Doctor,Convertible,3,Fire,Boston,6352,4,No,No,0.79,1
+C3198,P9198,53,Female,Doctor,Truck,14,Theft,Boston,46860,1,No,No,2.47,1
+C3199,P9199,59,Female,Lawyer,Truck,1,Collision,Chicago,12613,3,No,No,2.1,1
+C3200,P9200,39,Female,Teacher,Sedan,3,Theft,New York,20185,1,No,No,2.52,1
+C3201,P9201,50,Male,Doctor,Truck,15,Fire,Los Angeles,39941,6,No,No,2.0,1
+C3202,P9202,27,Male,Teacher,Sedan,12,Collision,New York,27726,5,No,No,1.63,1
+C3203,P9203,61,Male,Student,Truck,13,Fire,Miami,16135,3,No,No,0.9,1
+C3204,P9204,37,Female,Businessman,Sedan,6,Fire,Dallas,29674,7,No,No,2.7,1
+C3205,P9205,67,Female,Businessman,Convertible,9,Fire,Miami,11420,3,No,No,0.82,1
+C3206,P9206,69,Male,Businessman,Truck,1,Fire,Miami,58086,5,No,No,9.68,1
+C3207,P9207,53,Male,Doctor,SUV,5,Theft,Los Angeles,18677,7,No,No,1.87,1
+C3208,P9208,50,Male,Businessman,Convertible,2,Theft,Miami,58775,5,No,No,8.4,1
+C3209,P9209,19,Female,Engineer,Convertible,9,Collision,Los Angeles,26107,1,No,No,1.86,1
+C3210,P9210,41,Male,Engineer,Truck,15,Theft,Boston,43395,5,No,No,2.17,1
+C3211,P9211,68,Male,Teacher,SUV,5,Collision,Boston,55267,2,No,No,5.53,1
+C3212,P9212,66,Female,Student,SUV,15,Theft,New York,17572,3,No,No,0.88,1
+C3213,P9213,27,Female,Engineer,Truck,4,Collision,New York,3929,3,No,No,0.44,1
+C3214,P9214,44,Female,Engineer,SUV,14,Collision,Dallas,35930,0,No,No,1.89,1
+C3215,P9215,58,Male,Doctor,Sedan,5,Collision,New York,41092,5,No,No,4.11,1
+C3216,P9216,33,Female,Teacher,SUV,9,Collision,New York,35275,0,No,No,2.52,1
+C3217,P9217,42,Female,Engineer,Convertible,6,Collision,Boston,1864,5,No,No,0.17,1
+C3218,P9218,68,Male,Retired,Sedan,12,Fire,Boston,7593,5,No,No,0.45,1
+C3219,P9219,26,Male,Retired,Truck,14,Fire,Los Angeles,55220,7,No,No,2.91,1
+C3220,P9220,62,Female,Doctor,Sedan,13,Theft,New York,47726,7,No,No,2.65,1
+C3221,P9221,20,Female,Teacher,SUV,13,Theft,New York,21482,4,No,No,1.19,1
+C3222,P9222,50,Female,Businessman,Convertible,5,Theft,Boston,13324,4,No,No,1.33,1
+C3223,P9223,40,Male,Businessman,Truck,5,Theft,Chicago,29436,6,No,No,2.94,1
+C3224,P9224,65,Female,Student,Truck,3,Collision,Boston,33405,5,No,No,4.18,1
+C3225,P9225,69,Female,Businessman,SUV,12,Collision,New York,29020,2,No,No,1.71,1
+C3226,P9226,52,Female,Retired,SUV,2,Collision,Boston,20175,4,No,No,2.88,1
+C3227,P9227,46,Female,Teacher,Convertible,6,Collision,New York,48432,5,No,No,4.4,1
+C3228,P9228,57,Female,Retired,SUV,2,Fire,Boston,27421,5,No,No,3.92,1
+C3229,P9229,50,Male,Engineer,Sedan,14,Fire,Boston,52004,7,No,No,2.74,1
+C3230,P9230,20,Male,Engineer,Sedan,13,Fire,Chicago,24533,6,No,No,1.36,1
+C3231,P9231,54,Male,Lawyer,Sedan,11,Collision,Chicago,25180,7,No,No,1.57,1
+C3232,P9232,66,Male,Lawyer,Sedan,9,Collision,Miami,21403,4,No,No,1.53,1
+C3233,P9233,33,Male,Engineer,Sedan,8,Fire,Miami,37609,1,No,No,2.89,1
+C3234,P9234,34,Female,Doctor,Convertible,4,Fire,Chicago,46280,7,No,No,5.14,1
+C3235,P9235,30,Male,Teacher,SUV,8,Theft,Boston,29970,1,No,No,2.31,1
+C3236,P9236,69,Female,Doctor,Truck,12,Theft,Dallas,36331,4,No,No,2.14,1
+C3237,P9237,37,Male,Doctor,Sedan,13,Collision,Dallas,15495,1,No,No,0.86,1
+C3238,P9238,30,Male,Teacher,Convertible,1,Collision,Dallas,38304,5,No,No,6.38,1
+C3239,P9239,47,Male,Lawyer,SUV,2,Collision,Miami,47784,7,No,No,6.83,1
+C3240,P9240,51,Female,Businessman,Convertible,14,Fire,New York,9013,5,No,No,0.47,1
+C3241,P9241,59,Male,Student,Convertible,11,Fire,Chicago,9210,2,No,No,0.58,1
+C3242,P9242,67,Male,Student,SUV,14,Theft,Dallas,10828,4,No,No,0.57,1
+C3243,P9243,28,Male,Retired,Sedan,6,Fire,Chicago,56239,1,No,No,5.11,1
+C3244,P9244,34,Male,Doctor,Truck,3,Fire,Chicago,41067,1,No,No,5.13,1
+C3245,P9245,50,Male,Lawyer,Sedan,3,Fire,Dallas,48027,5,No,No,6.0,1
+C3246,P9246,54,Male,Businessman,SUV,2,Theft,Boston,51329,4,No,No,7.33,1
+C3247,P9247,59,Male,Businessman,Convertible,10,Fire,New York,33439,4,No,No,2.23,1
+C3248,P9248,59,Female,Student,Sedan,13,Fire,Miami,20292,7,No,No,1.13,1
+C3249,P9249,22,Male,Teacher,Convertible,7,Collision,Miami,14170,5,No,No,1.18,1
+C3250,P9250,56,Male,Retired,Truck,12,Collision,Miami,9369,5,No,No,0.55,1
+C3251,P9251,50,Male,Retired,Sedan,8,Theft,Chicago,30264,3,No,No,2.33,1
+C3252,P9252,27,Male,Engineer,Truck,7,Fire,Miami,17070,2,No,No,1.42,1
+C3253,P9253,70,Female,Lawyer,Truck,4,Theft,Miami,34533,7,No,No,3.84,1
+C3254,P9254,49,Female,Student,SUV,2,Collision,Dallas,30765,3,No,No,4.39,1
+C3255,P9255,31,Female,Engineer,SUV,5,Collision,Dallas,58624,7,No,No,5.86,1
+C3256,P9256,36,Male,Businessman,SUV,7,Theft,Chicago,48477,5,No,No,4.04,1
+C3257,P9257,66,Female,Retired,SUV,7,Theft,Dallas,37619,3,No,No,3.13,1
+C3258,P9258,41,Female,Engineer,Convertible,9,Collision,Dallas,19131,1,No,No,1.37,1
+C3259,P9259,26,Male,Student,Truck,13,Collision,Dallas,24760,2,No,No,1.38,1
+C3260,P9260,30,Female,Lawyer,SUV,1,Theft,Los Angeles,47565,5,No,No,7.93,1
+C3261,P9261,69,Female,Lawyer,Convertible,3,Fire,Dallas,9960,5,No,No,1.25,1
+C3262,P9262,57,Female,Teacher,Convertible,10,Fire,Chicago,39710,5,No,No,2.65,1
+C3263,P9263,50,Female,Doctor,Truck,8,Theft,Chicago,22508,1,No,No,1.73,1
+C3264,P9264,44,Female,Businessman,SUV,10,Collision,Chicago,43764,3,No,No,2.92,1
+C3265,P9265,64,Male,Lawyer,Convertible,3,Fire,Boston,48063,6,No,No,6.01,1
+C3266,P9266,27,Male,Engineer,SUV,4,Theft,Miami,21358,6,No,No,2.37,1
+C3267,P9267,27,Female,Doctor,Sedan,7,Fire,Dallas,31707,0,No,No,2.64,1
+C3268,P9268,63,Male,Lawyer,Sedan,9,Collision,Boston,32150,6,No,No,2.3,1
+C3269,P9269,38,Male,Student,Truck,9,Collision,Boston,51393,4,No,No,3.67,1
+C3270,P9270,57,Female,Teacher,Sedan,5,Fire,Chicago,15536,4,No,No,1.55,1
+C3271,P9271,67,Female,Doctor,Sedan,12,Fire,Miami,21577,7,No,No,1.27,1
+C3272,P9272,40,Female,Retired,SUV,10,Fire,Dallas,25683,6,No,No,1.71,1
+C3273,P9273,70,Female,Businessman,Sedan,5,Theft,Chicago,47601,1,No,No,4.76,1
+C3274,P9274,40,Female,Doctor,Truck,12,Collision,Los Angeles,14042,4,No,No,0.83,1
+C3275,P9275,53,Female,Teacher,SUV,10,Fire,Dallas,16481,3,No,No,1.1,1
+C3276,P9276,21,Male,Doctor,Sedan,1,Theft,Miami,22446,7,No,No,3.74,1
+C3277,P9277,24,Male,Engineer,Sedan,7,Fire,Miami,32090,3,No,No,2.67,1
+C3278,P9278,66,Female,Retired,Truck,11,Theft,New York,43549,3,No,No,2.72,1
+C3279,P9279,52,Male,Teacher,Convertible,15,Theft,New York,55601,6,No,No,2.78,1
+C3280,P9280,68,Female,Teacher,Truck,15,Theft,New York,20355,1,No,No,1.02,1
+C3281,P9281,39,Female,Student,Convertible,15,Theft,Dallas,31472,4,No,No,1.57,1
+C3282,P9282,30,Male,Retired,Sedan,12,Collision,Boston,17660,2,No,No,1.04,1
+C3283,P9283,18,Female,Businessman,Truck,10,Fire,Los Angeles,12301,6,No,No,0.82,1
+C3284,P9284,70,Female,Lawyer,Truck,2,Collision,Boston,7051,2,No,No,1.01,1
+C3285,P9285,26,Female,Retired,Sedan,1,Collision,Miami,16235,7,No,No,2.71,1
+C3286,P9286,66,Female,Retired,Truck,10,Fire,Dallas,1549,4,No,No,0.1,1
+C3287,P9287,59,Female,Doctor,Sedan,1,Fire,New York,31300,4,No,No,5.22,1
+C3288,P9288,28,Female,Doctor,Truck,12,Theft,Boston,20135,5,No,No,1.18,1
+C3289,P9289,57,Male,Teacher,Sedan,8,Theft,Miami,49803,5,No,No,3.83,1
+C3290,P9290,44,Female,Businessman,Sedan,13,Theft,Boston,50262,1,No,No,2.79,1
+C3291,P9291,51,Female,Lawyer,Truck,2,Fire,New York,4847,3,No,No,0.69,1
+C3292,P9292,54,Male,Teacher,Truck,14,Fire,Miami,8417,3,No,No,0.44,1
+C3293,P9293,63,Female,Engineer,Convertible,13,Theft,Miami,9447,6,No,No,0.52,1
+C3294,P9294,47,Male,Lawyer,Convertible,11,Collision,Boston,2226,6,No,No,0.14,1
+C3295,P9295,34,Male,Doctor,Sedan,10,Theft,New York,28567,5,No,No,1.9,1
+C3296,P9296,62,Male,Lawyer,SUV,15,Theft,Miami,2879,4,No,No,0.14,1
+C3297,P9297,44,Male,Businessman,Sedan,13,Fire,Boston,43128,6,No,No,2.4,1
+C3298,P9298,41,Female,Student,Convertible,7,Theft,Boston,44171,2,No,No,3.68,1
+C3299,P9299,59,Female,Engineer,Sedan,9,Collision,Dallas,9145,3,No,No,0.65,1
+C3300,P9300,18,Male,Retired,Convertible,11,Fire,Dallas,28595,6,No,No,1.79,1
+C3301,P9301,70,Male,Teacher,Convertible,6,Theft,Chicago,13152,1,No,No,1.2,1
+C3302,P9302,20,Female,Lawyer,SUV,4,Theft,New York,7412,0,No,No,0.82,1
+C3303,P9303,46,Male,Teacher,SUV,7,Collision,Los Angeles,36173,3,No,No,3.01,1
+C3304,P9304,66,Male,Teacher,Truck,4,Fire,Dallas,21699,5,No,No,2.41,1
+C3305,P9305,33,Female,Teacher,Sedan,7,Collision,Chicago,4794,2,No,No,0.4,1
+C3306,P9306,58,Female,Lawyer,Convertible,1,Collision,Boston,44797,6,No,No,7.47,1
+C3307,P9307,68,Female,Doctor,Convertible,7,Theft,Chicago,25471,2,No,No,2.12,1
+C3308,P9308,66,Female,Teacher,Sedan,5,Fire,Los Angeles,53607,7,No,No,5.36,1
+C3309,P9309,21,Female,Student,Sedan,7,Theft,Chicago,14125,5,No,No,1.18,1
+C3310,P9310,59,Male,Student,Truck,2,Fire,Boston,55155,3,No,No,7.88,1
+C3311,P9311,21,Female,Student,SUV,14,Theft,Los Angeles,53533,3,No,No,2.82,1
+C3312,P9312,48,Male,Businessman,Truck,5,Theft,Los Angeles,13253,1,No,No,1.33,1
+C3313,P9313,65,Female,Teacher,Sedan,7,Theft,Dallas,21877,4,No,No,1.82,1
+C3314,P9314,42,Female,Lawyer,Truck,5,Collision,Chicago,34407,7,No,No,3.44,1
+C3315,P9315,47,Male,Businessman,Convertible,13,Collision,Los Angeles,25094,5,No,No,1.39,1
+C3316,P9316,44,Male,Lawyer,Sedan,12,Theft,New York,17890,6,No,No,1.05,1
+C3317,P9317,36,Male,Teacher,Truck,4,Collision,Dallas,55415,3,No,No,6.16,1
+C3318,P9318,49,Female,Retired,Convertible,12,Fire,Boston,32951,7,No,No,1.94,1
+C3319,P9319,28,Female,Teacher,Sedan,12,Fire,Miami,12861,0,No,No,0.76,1
+C3320,P9320,51,Male,Businessman,SUV,14,Fire,New York,50891,0,No,No,2.68,1
+C3321,P9321,44,Male,Businessman,Sedan,2,Fire,Los Angeles,1399,3,No,No,0.2,1
+C3322,P9322,50,Female,Retired,SUV,10,Fire,Boston,41204,7,No,No,2.75,1
+C3323,P9323,60,Female,Engineer,SUV,9,Fire,Miami,1576,0,No,No,0.11,1
+C3324,P9324,51,Female,Lawyer,Truck,1,Fire,Boston,44973,6,No,No,7.5,1
+C3325,P9325,69,Male,Engineer,SUV,9,Theft,Los Angeles,13378,4,No,No,0.96,1
+C3326,P9326,70,Female,Retired,Convertible,2,Collision,Miami,30880,3,No,No,4.41,1
+C3327,P9327,62,Male,Retired,SUV,11,Fire,New York,6927,6,No,No,0.43,1
+C3328,P9328,42,Female,Lawyer,Convertible,1,Fire,New York,46861,2,No,No,7.81,1
+C3329,P9329,23,Female,Businessman,Convertible,11,Collision,Dallas,57027,1,No,No,3.56,1
+C3330,P9330,51,Male,Teacher,Sedan,15,Fire,Dallas,31962,4,No,No,1.6,1
+C3331,P9331,20,Male,Doctor,Truck,15,Fire,Dallas,43929,0,No,No,2.2,1
+C3332,P9332,29,Female,Engineer,Sedan,10,Theft,Boston,54598,6,No,No,3.64,1
+C3333,P9333,22,Female,Teacher,Sedan,10,Collision,Boston,59554,5,No,Yes,3.97,0
+C3334,P9334,68,Male,Lawyer,Truck,1,Theft,Miami,16013,1,No,No,2.67,0
+C3335,P9335,67,Female,Engineer,Truck,13,Collision,Miami,15751,5,No,No,0.88,0
+C3336,P9336,29,Female,Engineer,Truck,13,Theft,Boston,5617,1,No,Yes,0.31,0
+C3337,P9337,42,Male,Doctor,Convertible,6,Collision,New York,6797,0,No,No,0.62,0
+C3338,P9338,41,Female,Engineer,Sedan,2,Theft,Miami,30215,6,Yes,Yes,4.32,0
+C3339,P9339,23,Female,Lawyer,SUV,10,Fire,Chicago,57404,6,Yes,No,3.83,0
+C3340,P9340,44,Female,Businessman,SUV,12,Fire,Los Angeles,38283,2,No,Yes,2.25,0
+C3341,P9341,26,Female,Retired,Truck,8,Theft,New York,11758,6,No,No,0.9,0
+C3342,P9342,37,Female,Businessman,SUV,6,Collision,Los Angeles,48044,7,Yes,No,4.37,0
+C3343,P9343,24,Male,Retired,SUV,7,Collision,Dallas,25696,5,No,No,2.14,0
+C3344,P9344,45,Male,Retired,Truck,10,Fire,Los Angeles,32192,5,Yes,No,2.15,0
+C3345,P9345,38,Female,Doctor,Convertible,10,Theft,Chicago,25445,4,No,No,1.7,0
+C3346,P9346,25,Male,Lawyer,Sedan,11,Fire,New York,48458,7,Yes,No,3.03,0
+C3347,P9347,69,Female,Businessman,SUV,14,Collision,Boston,33522,2,No,Yes,1.76,0
+C3348,P9348,34,Male,Doctor,Convertible,13,Collision,New York,30230,7,No,No,1.68,0
+C3349,P9349,52,Male,Businessman,Truck,12,Fire,Dallas,42623,1,Yes,Yes,2.51,0
+C3350,P9350,60,Female,Teacher,SUV,10,Fire,Boston,43184,6,No,No,2.88,0
+C3351,P9351,24,Male,Engineer,Truck,4,Fire,Boston,34799,3,No,No,3.87,0
+C3352,P9352,43,Female,Businessman,Sedan,6,Theft,Miami,7651,4,No,Yes,0.7,0
+C3353,P9353,25,Male,Retired,Truck,6,Collision,Los Angeles,34951,7,No,No,3.18,0
+C3354,P9354,24,Female,Doctor,Convertible,6,Theft,Chicago,3728,1,Yes,No,0.34,0
+C3355,P9355,59,Male,Doctor,Sedan,15,Fire,Los Angeles,34616,2,Yes,No,1.73,0
+C3356,P9356,53,Female,Student,Sedan,13,Collision,Boston,12888,2,No,No,0.72,0
+C3357,P9357,19,Male,Student,Convertible,7,Theft,Boston,14876,3,No,Yes,1.24,0
+C3358,P9358,54,Male,Businessman,Sedan,6,Collision,Los Angeles,30786,1,No,No,2.8,0
+C3359,P9359,51,Female,Lawyer,Convertible,10,Collision,Dallas,8286,5,No,No,0.55,0
+C3360,P9360,57,Male,Businessman,Truck,15,Fire,Dallas,6354,2,No,Yes,0.32,0
+C3361,P9361,33,Female,Engineer,Sedan,6,Fire,Los Angeles,34277,6,No,Yes,3.12,0
+C3362,P9362,54,Female,Student,Sedan,8,Fire,Dallas,46244,2,Yes,No,3.56,0
+C3363,P9363,36,Male,Teacher,Truck,14,Collision,Dallas,4313,5,Yes,No,0.23,0
+C3364,P9364,26,Male,Businessman,Convertible,9,Fire,Boston,33238,6,No,No,2.37,0
+C3365,P9365,63,Female,Student,Sedan,2,Fire,New York,52958,3,No,Yes,7.57,0
+C3366,P9366,35,Male,Lawyer,Truck,3,Collision,Dallas,49461,7,Yes,Yes,6.18,0
+C3367,P9367,35,Female,Lawyer,SUV,13,Fire,Miami,36605,3,No,Yes,2.03,0
+C3368,P9368,65,Male,Retired,SUV,8,Collision,Chicago,57305,1,No,Yes,4.41,0
+C3369,P9369,67,Male,Teacher,Truck,14,Fire,Dallas,42269,6,Yes,Yes,2.22,0
+C3370,P9370,68,Male,Businessman,Sedan,13,Theft,Dallas,23791,4,Yes,No,1.32,0
+C3371,P9371,63,Female,Retired,Truck,14,Fire,Boston,54223,1,Yes,No,2.85,0
+C3372,P9372,21,Female,Businessman,Sedan,12,Theft,Los Angeles,10384,5,Yes,No,0.61,0
+C3373,P9373,49,Male,Lawyer,Truck,11,Collision,Miami,30421,1,Yes,No,1.9,0
+C3374,P9374,50,Female,Doctor,Truck,8,Collision,Chicago,38939,0,Yes,No,3.0,0
+C3375,P9375,58,Female,Businessman,SUV,13,Fire,Miami,15075,6,Yes,No,0.84,0
+C3376,P9376,35,Female,Businessman,Truck,6,Fire,Dallas,9358,7,No,Yes,0.85,0
+C3377,P9377,20,Male,Doctor,Convertible,1,Theft,Los Angeles,29720,7,Yes,No,4.95,0
+C3378,P9378,30,Male,Doctor,Truck,3,Collision,New York,43699,5,No,Yes,5.46,0
+C3379,P9379,41,Male,Engineer,Convertible,11,Collision,Boston,46638,3,No,Yes,2.91,0
+C3380,P9380,63,Male,Engineer,Sedan,8,Theft,Los Angeles,39707,3,No,Yes,3.05,0
+C3381,P9381,18,Female,Businessman,SUV,14,Collision,Boston,9462,7,Yes,Yes,0.5,0
+C3382,P9382,42,Male,Doctor,SUV,2,Collision,Chicago,58536,4,Yes,No,8.36,0
+C3383,P9383,67,Male,Doctor,Sedan,2,Fire,Dallas,1355,2,No,No,0.19,0
+C3384,P9384,64,Male,Doctor,Sedan,15,Collision,Dallas,45794,7,Yes,Yes,2.29,0
+C3385,P9385,24,Male,Businessman,SUV,10,Fire,Miami,23838,6,No,Yes,1.59,0
+C3386,P9386,33,Female,Doctor,SUV,4,Fire,Dallas,40122,4,Yes,No,4.46,0
+C3387,P9387,31,Male,Doctor,Convertible,5,Fire,New York,52167,3,No,No,5.22,0
+C3388,P9388,25,Male,Student,SUV,9,Theft,Chicago,21540,2,No,No,1.54,0
+C3389,P9389,41,Male,Businessman,Convertible,13,Theft,New York,39293,1,Yes,No,2.18,0
+C3390,P9390,31,Male,Engineer,Convertible,9,Collision,Boston,47502,6,No,No,3.39,0
+C3391,P9391,23,Male,Retired,SUV,5,Theft,Dallas,14116,2,No,No,1.41,0
+C3392,P9392,55,Male,Retired,Convertible,12,Theft,New York,16822,1,No,Yes,0.99,0
+C3393,P9393,47,Male,Retired,Sedan,2,Theft,Boston,9792,0,Yes,No,1.4,0
+C3394,P9394,40,Female,Teacher,Truck,3,Fire,Chicago,48833,1,Yes,No,6.1,0
+C3395,P9395,69,Female,Retired,SUV,5,Fire,Dallas,41925,1,No,No,4.19,0
+C3396,P9396,50,Female,Engineer,Convertible,14,Fire,Los Angeles,24896,2,No,Yes,1.31,0
+C3397,P9397,54,Male,Teacher,SUV,1,Theft,Los Angeles,3813,7,No,No,0.64,0
+C3398,P9398,27,Male,Businessman,SUV,9,Fire,Boston,43772,6,Yes,No,3.13,0
+C3399,P9399,33,Female,Doctor,Truck,5,Theft,Dallas,25232,1,Yes,Yes,2.52,0
+C3400,P9400,32,Male,Student,SUV,15,Collision,Chicago,51493,4,No,Yes,2.57,0
+C3401,P9401,53,Female,Engineer,Truck,4,Collision,Dallas,52213,4,Yes,No,5.8,0
+C3402,P9402,41,Female,Businessman,Sedan,12,Fire,Los Angeles,10667,0,No,Yes,0.63,0
+C3403,P9403,32,Female,Doctor,SUV,6,Theft,Boston,25459,4,Yes,Yes,2.31,0
+C3404,P9404,51,Male,Student,Convertible,1,Theft,Boston,19138,1,Yes,Yes,3.19,0
+C3405,P9405,51,Female,Doctor,Truck,8,Fire,New York,38861,1,Yes,No,2.99,0
+C3406,P9406,22,Male,Student,Sedan,4,Collision,Chicago,56565,5,No,No,6.29,0
+C3407,P9407,38,Female,Retired,Sedan,2,Theft,Los Angeles,51913,1,Yes,Yes,7.42,0
+C3408,P9408,28,Female,Student,Truck,7,Theft,Dallas,24280,3,No,No,2.02,0
+C3409,P9409,47,Female,Businessman,SUV,2,Theft,Boston,20737,0,Yes,No,2.96,0
+C3410,P9410,27,Male,Doctor,Sedan,6,Collision,Dallas,4008,4,No,Yes,0.36,0
+C3411,P9411,19,Female,Businessman,Convertible,9,Fire,Dallas,17174,1,No,Yes,1.23,0
+C3412,P9412,69,Male,Engineer,SUV,1,Theft,Los Angeles,13784,6,No,Yes,2.3,0
+C3413,P9413,55,Female,Businessman,SUV,1,Theft,Los Angeles,59945,7,Yes,Yes,9.99,0
+C3414,P9414,69,Female,Engineer,SUV,8,Theft,Los Angeles,38410,6,No,No,2.95,0
+C3415,P9415,19,Female,Doctor,Convertible,3,Collision,Los Angeles,13065,4,No,No,1.63,0
+C3416,P9416,27,Male,Lawyer,Sedan,11,Collision,Miami,27800,7,Yes,Yes,1.74,0
+C3417,P9417,35,Female,Teacher,Convertible,4,Fire,Dallas,17128,0,No,No,1.9,0
+C3418,P9418,48,Female,Retired,Truck,7,Collision,Los Angeles,2508,5,Yes,Yes,0.21,0
+C3419,P9419,69,Female,Engineer,Convertible,9,Collision,Dallas,16054,2,Yes,Yes,1.15,0
+C3420,P9420,60,Male,Retired,SUV,13,Theft,Dallas,56276,6,No,Yes,3.13,0
+C3421,P9421,29,Male,Lawyer,Truck,13,Fire,Boston,24313,0,No,Yes,1.35,0
+C3422,P9422,54,Male,Businessman,Convertible,9,Collision,Los Angeles,32941,0,Yes,Yes,2.35,0
+C3423,P9423,32,Male,Engineer,Convertible,1,Collision,Dallas,14003,2,No,Yes,2.33,0
+C3424,P9424,69,Female,Engineer,SUV,3,Fire,Boston,10083,1,No,Yes,1.26,0
+C3425,P9425,41,Female,Lawyer,SUV,6,Collision,Chicago,9742,2,No,No,0.89,0
+C3426,P9426,59,Female,Teacher,Truck,4,Fire,Dallas,54176,2,No,No,6.02,0
+C3427,P9427,64,Female,Teacher,Sedan,12,Theft,Boston,38341,6,Yes,Yes,2.26,0
+C3428,P9428,56,Female,Businessman,Sedan,11,Fire,New York,33317,2,No,Yes,2.08,0
+C3429,P9429,33,Female,Retired,Sedan,11,Theft,Boston,44710,5,No,Yes,2.79,0
+C3430,P9430,34,Male,Teacher,SUV,6,Collision,New York,48013,0,Yes,No,4.36,0
+C3431,P9431,46,Female,Teacher,Convertible,8,Collision,Chicago,36584,6,Yes,No,2.81,0
+C3432,P9432,68,Male,Teacher,Convertible,2,Theft,Chicago,2115,5,No,Yes,0.3,0
+C3433,P9433,22,Female,Teacher,Convertible,3,Fire,New York,36651,1,No,No,4.58,0
+C3434,P9434,63,Male,Student,Sedan,10,Collision,Los Angeles,4309,1,No,Yes,0.29,0
+C3435,P9435,30,Female,Doctor,Truck,11,Collision,Chicago,16367,1,Yes,No,1.02,0
+C3436,P9436,54,Female,Teacher,SUV,6,Theft,Miami,6542,4,No,Yes,0.59,0
+C3437,P9437,24,Male,Teacher,Sedan,11,Collision,New York,31835,1,No,No,1.99,0
+C3438,P9438,48,Female,Doctor,Truck,2,Fire,Dallas,26196,2,No,No,3.74,0
+C3439,P9439,41,Male,Student,SUV,5,Collision,Miami,18062,3,No,Yes,1.81,0
+C3440,P9440,27,Male,Engineer,Truck,13,Fire,Miami,50375,3,Yes,No,2.8,0
+C3441,P9441,70,Female,Lawyer,Convertible,10,Theft,Miami,20385,1,No,Yes,1.36,0
+C3442,P9442,50,Male,Engineer,Convertible,3,Theft,Los Angeles,53783,3,Yes,Yes,6.72,0
+C3443,P9443,45,Male,Doctor,Convertible,4,Fire,Los Angeles,55464,4,No,Yes,6.16,0
+C3444,P9444,23,Female,Lawyer,Convertible,9,Collision,Chicago,34858,7,Yes,No,2.49,0
+C3445,P9445,25,Female,Teacher,Sedan,10,Fire,Dallas,50501,1,Yes,Yes,3.37,0
+C3446,P9446,68,Female,Businessman,Truck,15,Collision,Chicago,25903,7,No,Yes,1.3,0
+C3447,P9447,29,Female,Student,Sedan,10,Fire,Boston,46259,6,Yes,No,3.08,0
+C3448,P9448,39,Male,Engineer,Convertible,15,Collision,Chicago,2125,5,No,No,0.11,0
+C3449,P9449,35,Female,Businessman,SUV,14,Theft,Los Angeles,20492,7,No,No,1.08,0
+C3450,P9450,64,Female,Lawyer,SUV,4,Collision,Los Angeles,54799,6,No,No,6.09,0
+C3451,P9451,70,Male,Lawyer,Sedan,2,Collision,Boston,34013,6,Yes,Yes,4.86,0
+C3452,P9452,29,Male,Businessman,Sedan,14,Theft,Los Angeles,2967,7,Yes,No,0.16,0
+C3453,P9453,63,Male,Retired,Truck,14,Collision,Dallas,26814,1,Yes,Yes,1.41,0
+C3454,P9454,41,Female,Lawyer,Convertible,3,Collision,Dallas,36932,5,No,Yes,4.62,0
+C3455,P9455,34,Male,Retired,SUV,7,Theft,Los Angeles,56756,3,Yes,Yes,4.73,0
+C3456,P9456,61,Male,Retired,Convertible,9,Theft,Boston,1383,7,Yes,Yes,0.1,0
+C3457,P9457,56,Male,Teacher,Truck,10,Collision,Boston,47289,4,No,No,3.15,0
+C3458,P9458,40,Female,Retired,Sedan,8,Collision,Boston,34920,6,Yes,Yes,2.69,0
+C3459,P9459,50,Female,Lawyer,Truck,5,Fire,New York,32371,1,No,No,3.24,0
+C3460,P9460,58,Female,Businessman,Truck,5,Fire,Boston,59282,4,Yes,Yes,5.93,0
+C3461,P9461,51,Male,Engineer,Convertible,11,Collision,Boston,9970,0,No,No,0.62,0
+C3462,P9462,34,Female,Student,Convertible,12,Theft,Dallas,47204,3,No,Yes,2.78,0
+C3463,P9463,61,Female,Doctor,Truck,9,Collision,Los Angeles,55892,2,No,Yes,3.99,0
+C3464,P9464,48,Male,Doctor,Truck,12,Fire,Los Angeles,45345,5,Yes,Yes,2.67,0
+C3465,P9465,40,Male,Doctor,Truck,7,Collision,Chicago,17876,4,No,Yes,1.49,0
+C3466,P9466,48,Male,Businessman,SUV,8,Theft,Dallas,8652,6,No,No,0.67,0
+C3467,P9467,21,Male,Teacher,Sedan,6,Collision,Dallas,59313,7,Yes,No,5.39,0
+C3468,P9468,63,Male,Businessman,SUV,8,Collision,Boston,12388,5,Yes,Yes,0.95,0
+C3469,P9469,46,Female,Teacher,Sedan,10,Theft,Miami,52259,1,Yes,No,3.48,0
+C3470,P9470,58,Female,Student,Convertible,8,Collision,New York,3272,3,No,Yes,0.25,0
+C3471,P9471,38,Male,Engineer,SUV,11,Fire,Los Angeles,15628,5,No,Yes,0.98,0
+C3472,P9472,24,Female,Lawyer,Truck,3,Theft,New York,20342,4,No,No,2.54,0
+C3473,P9473,45,Male,Retired,Convertible,6,Theft,Los Angeles,54015,6,Yes,Yes,4.91,0
+C3474,P9474,32,Male,Teacher,SUV,10,Fire,Los Angeles,8871,5,Yes,No,0.59,0
+C3475,P9475,58,Female,Businessman,SUV,10,Theft,Boston,7885,0,Yes,Yes,0.53,0
+C3476,P9476,44,Female,Student,SUV,9,Collision,Miami,46797,2,Yes,Yes,3.34,0
+C3477,P9477,37,Female,Doctor,SUV,11,Fire,Chicago,41615,2,No,Yes,2.6,0
+C3478,P9478,50,Male,Retired,SUV,13,Theft,Miami,13818,3,No,Yes,0.77,0
+C3479,P9479,40,Female,Retired,Sedan,1,Fire,Miami,14411,7,No,Yes,2.4,0
+C3480,P9480,18,Male,Doctor,SUV,15,Theft,Dallas,44645,7,Yes,Yes,2.23,0
+C3481,P9481,67,Male,Doctor,SUV,15,Collision,Boston,15949,7,No,No,0.8,0
+C3482,P9482,47,Male,Engineer,Sedan,14,Theft,Chicago,24407,5,No,Yes,1.28,0
+C3483,P9483,24,Male,Engineer,Sedan,11,Fire,Los Angeles,22339,5,No,No,1.4,0
+C3484,P9484,64,Male,Retired,Truck,3,Theft,Miami,27030,7,No,No,3.38,0
+C3485,P9485,62,Female,Businessman,Convertible,11,Theft,New York,9484,0,Yes,Yes,0.59,0
+C3486,P9486,44,Female,Businessman,Convertible,3,Fire,Miami,51863,5,Yes,Yes,6.48,0
+C3487,P9487,48,Female,Engineer,Convertible,8,Theft,New York,17945,5,Yes,Yes,1.38,0
+C3488,P9488,60,Female,Lawyer,SUV,7,Fire,Boston,17090,7,No,No,1.42,0
+C3489,P9489,27,Male,Engineer,Sedan,9,Collision,Miami,57778,2,Yes,No,4.13,0
+C3490,P9490,38,Male,Retired,Truck,1,Fire,Los Angeles,36877,6,No,Yes,6.15,0
+C3491,P9491,23,Female,Student,Convertible,2,Collision,Miami,21513,1,No,Yes,3.07,0
+C3492,P9492,24,Female,Student,SUV,9,Fire,New York,54926,1,No,Yes,3.92,0
+C3493,P9493,59,Female,Retired,Truck,14,Theft,Los Angeles,56133,7,No,No,2.95,0
+C3494,P9494,63,Female,Doctor,Convertible,2,Theft,Boston,15332,0,No,No,2.19,0
+C3495,P9495,58,Female,Lawyer,Truck,12,Theft,New York,59577,2,No,Yes,3.5,0
+C3496,P9496,70,Female,Engineer,Truck,10,Theft,Los Angeles,8713,6,Yes,No,0.58,0
+C3497,P9497,70,Male,Doctor,Truck,2,Collision,New York,42300,1,No,No,6.04,0
+C3498,P9498,60,Male,Student,SUV,9,Fire,New York,37056,6,No,Yes,2.65,0
+C3499,P9499,62,Male,Doctor,Sedan,2,Collision,Boston,40157,5,No,No,5.74,0
+C3500,P9500,56,Male,Retired,Convertible,6,Collision,Miami,53543,2,Yes,No,4.87,0
+C3501,P9501,56,Female,Businessman,Truck,12,Fire,Dallas,42256,3,Yes,Yes,2.49,0
+C3502,P9502,57,Female,Doctor,Truck,15,Fire,Los Angeles,47356,2,No,Yes,2.37,0
+C3503,P9503,66,Female,Lawyer,Convertible,10,Fire,Boston,47338,6,No,No,3.16,0
+C3504,P9504,69,Male,Lawyer,SUV,1,Collision,Los Angeles,4277,0,Yes,No,0.71,0
+C3505,P9505,66,Male,Retired,Truck,3,Theft,Boston,52203,4,Yes,Yes,6.53,0
+C3506,P9506,40,Female,Engineer,Sedan,12,Fire,Dallas,26286,3,No,Yes,1.55,0
+C3507,P9507,42,Female,Student,Truck,9,Theft,New York,49537,4,Yes,No,3.54,0
+C3508,P9508,32,Female,Businessman,Sedan,13,Fire,Los Angeles,20079,7,Yes,Yes,1.12,0
+C3509,P9509,29,Male,Doctor,SUV,7,Theft,Miami,19091,4,Yes,Yes,1.59,0
+C3510,P9510,55,Female,Engineer,Truck,8,Fire,Los Angeles,3417,2,No,Yes,0.26,0
+C3511,P9511,67,Female,Student,Truck,2,Fire,Chicago,35232,3,Yes,Yes,5.03,0
+C3512,P9512,68,Male,Student,Convertible,2,Collision,Los Angeles,58694,3,No,No,8.38,0
+C3513,P9513,41,Female,Teacher,Convertible,9,Fire,New York,8318,5,No,Yes,0.59,0
+C3514,P9514,59,Male,Engineer,Truck,7,Theft,Miami,17615,4,Yes,No,1.47,0
+C3515,P9515,50,Female,Student,SUV,5,Fire,Los Angeles,21792,1,Yes,Yes,2.18,0
+C3516,P9516,67,Male,Doctor,SUV,4,Fire,Boston,51497,3,No,Yes,5.72,0
+C3517,P9517,31,Female,Doctor,SUV,12,Fire,Los Angeles,2356,7,No,Yes,0.14,0
+C3518,P9518,23,Male,Engineer,Sedan,13,Collision,Dallas,5416,3,No,No,0.3,0
+C3519,P9519,42,Female,Doctor,Convertible,7,Collision,New York,26326,1,Yes,Yes,2.19,0
+C3520,P9520,66,Male,Doctor,SUV,6,Fire,New York,19794,4,Yes,No,1.8,0
+C3521,P9521,66,Female,Student,Convertible,14,Fire,New York,31863,2,Yes,Yes,1.68,0
+C3522,P9522,65,Female,Businessman,Truck,11,Theft,Chicago,45186,5,Yes,Yes,2.82,0
+C3523,P9523,25,Male,Engineer,Convertible,9,Fire,New York,20768,3,No,Yes,1.48,0
+C3524,P9524,44,Male,Teacher,Sedan,4,Fire,Chicago,13535,1,Yes,Yes,1.5,0
+C3525,P9525,66,Female,Doctor,SUV,5,Fire,New York,17229,1,Yes,No,1.72,0
+C3526,P9526,39,Female,Teacher,Sedan,2,Collision,Dallas,5374,3,No,No,0.77,0
+C3527,P9527,46,Female,Lawyer,Truck,12,Fire,Los Angeles,37864,5,No,No,2.23,0
+C3528,P9528,28,Male,Retired,Sedan,13,Theft,Boston,49284,6,No,No,2.74,0
+C3529,P9529,26,Female,Student,Convertible,8,Collision,Chicago,32714,1,Yes,Yes,2.52,0
+C3530,P9530,35,Male,Lawyer,Sedan,5,Fire,Boston,5811,1,Yes,Yes,0.58,0
+C3531,P9531,70,Female,Businessman,Sedan,15,Theft,Dallas,17879,7,Yes,No,0.89,0
+C3532,P9532,43,Male,Businessman,Truck,3,Collision,Dallas,34250,1,No,No,4.28,0
+C3533,P9533,50,Male,Doctor,Sedan,14,Fire,Boston,11668,2,No,Yes,0.61,0
+C3534,P9534,29,Male,Doctor,Convertible,6,Theft,Los Angeles,50703,7,Yes,Yes,4.61,0
+C3535,P9535,34,Female,Teacher,SUV,11,Theft,Dallas,52669,5,No,No,3.29,0
+C3536,P9536,47,Male,Engineer,Truck,2,Fire,Dallas,42321,4,No,Yes,6.05,0
+C3537,P9537,42,Female,Retired,SUV,9,Collision,Miami,15407,6,No,No,1.1,0
+C3538,P9538,49,Female,Lawyer,SUV,9,Theft,Miami,11653,3,Yes,No,0.83,0
+C3539,P9539,31,Male,Teacher,Sedan,6,Fire,Boston,54339,1,Yes,No,4.94,0
+C3540,P9540,69,Female,Doctor,SUV,8,Fire,Miami,32193,3,Yes,No,2.48,0
+C3541,P9541,19,Male,Engineer,Sedan,10,Fire,Los Angeles,9629,0,Yes,Yes,0.64,0
+C3542,P9542,28,Female,Teacher,Convertible,10,Fire,Boston,2020,4,Yes,Yes,0.13,0
+C3543,P9543,46,Female,Businessman,Convertible,3,Theft,Miami,40176,2,Yes,No,5.02,0
+C3544,P9544,28,Female,Student,SUV,4,Collision,Miami,9464,1,Yes,Yes,1.05,0
+C3545,P9545,51,Female,Businessman,Sedan,10,Theft,Los Angeles,31986,0,Yes,Yes,2.13,0
+C3546,P9546,48,Male,Lawyer,SUV,15,Fire,Boston,29078,6,No,Yes,1.45,0
+C3547,P9547,62,Female,Teacher,Convertible,13,Collision,Chicago,39403,1,No,Yes,2.19,0
+C3548,P9548,34,Female,Businessman,Sedan,15,Theft,Chicago,40009,6,No,Yes,2.0,0
+C3549,P9549,18,Male,Lawyer,SUV,9,Theft,Miami,43696,3,No,No,3.12,0
+C3550,P9550,41,Male,Teacher,Convertible,11,Fire,Chicago,17924,6,No,No,1.12,0
+C3551,P9551,61,Female,Businessman,Sedan,7,Fire,Dallas,32419,2,No,No,2.7,0
+C3552,P9552,34,Female,Lawyer,Truck,13,Fire,Miami,49020,2,Yes,Yes,2.72,0
+C3553,P9553,46,Male,Engineer,Sedan,9,Collision,Chicago,53284,0,Yes,No,3.81,0
+C3554,P9554,58,Male,Businessman,SUV,14,Theft,Miami,40137,6,Yes,Yes,2.11,0
+C3555,P9555,34,Male,Retired,SUV,10,Theft,Boston,25987,6,No,Yes,1.73,0
+C3556,P9556,67,Male,Doctor,Convertible,8,Theft,Los Angeles,56542,4,Yes,Yes,4.35,0
+C3557,P9557,68,Male,Lawyer,Sedan,11,Theft,Chicago,16479,0,Yes,Yes,1.03,0
+C3558,P9558,35,Female,Retired,Convertible,7,Fire,Los Angeles,34730,0,Yes,Yes,2.89,0
+C3559,P9559,53,Female,Doctor,Truck,6,Collision,Los Angeles,40538,3,No,No,3.69,0
+C3560,P9560,54,Male,Retired,Sedan,7,Fire,New York,37410,1,No,No,3.12,0
+C3561,P9561,25,Female,Lawyer,Truck,12,Collision,Miami,37707,7,Yes,No,2.22,0
+C3562,P9562,67,Female,Doctor,Convertible,15,Fire,New York,32386,1,No,Yes,1.62,0
+C3563,P9563,42,Male,Doctor,Sedan,13,Collision,Miami,23940,0,No,Yes,1.33,0
+C3564,P9564,36,Male,Student,Truck,2,Fire,Los Angeles,32031,5,No,Yes,4.58,0
+C3565,P9565,54,Female,Teacher,Sedan,8,Fire,Los Angeles,16191,3,No,Yes,1.25,0
+C3566,P9566,32,Male,Businessman,Sedan,14,Fire,Chicago,11023,1,Yes,Yes,0.58,0
+C3567,P9567,61,Female,Lawyer,SUV,13,Fire,New York,56375,7,No,No,3.13,0
+C3568,P9568,49,Female,Student,Sedan,13,Fire,Chicago,26875,3,Yes,Yes,1.49,0
+C3569,P9569,51,Female,Student,SUV,9,Collision,Miami,57187,2,No,Yes,4.08,0
+C3570,P9570,62,Female,Retired,SUV,1,Fire,Los Angeles,25666,1,No,No,4.28,0
+C3571,P9571,57,Female,Teacher,Truck,4,Collision,Miami,40979,5,No,Yes,4.55,0
+C3572,P9572,49,Female,Teacher,Convertible,12,Collision,Chicago,56789,6,No,No,3.34,0
+C3573,P9573,29,Male,Lawyer,Sedan,14,Theft,Boston,18491,3,No,No,0.97,0
+C3574,P9574,30,Male,Businessman,Sedan,8,Theft,Los Angeles,28424,7,Yes,No,2.19,0
+C3575,P9575,68,Female,Retired,Truck,9,Fire,New York,26909,1,Yes,Yes,1.92,0
+C3576,P9576,31,Female,Student,SUV,8,Fire,Chicago,17824,5,No,No,1.37,0
+C3577,P9577,40,Male,Student,SUV,6,Fire,Dallas,13838,2,No,No,1.26,0
+C3578,P9578,38,Female,Businessman,Convertible,15,Theft,Miami,41017,4,No,Yes,2.05,0
+C3579,P9579,28,Female,Student,Convertible,14,Theft,New York,11416,5,Yes,No,0.6,0
+C3580,P9580,38,Female,Doctor,Truck,10,Fire,Miami,18576,7,No,No,1.24,0
+C3581,P9581,44,Male,Teacher,SUV,3,Fire,Los Angeles,44186,4,Yes,Yes,5.52,0
+C3582,P9582,28,Female,Engineer,SUV,2,Collision,Dallas,4327,0,No,Yes,0.62,0
+C3583,P9583,24,Female,Lawyer,Sedan,2,Fire,Miami,21074,3,Yes,No,3.01,0
+C3584,P9584,46,Male,Teacher,Sedan,1,Theft,Boston,24185,5,No,No,4.03,0
+C3585,P9585,52,Female,Lawyer,Convertible,3,Fire,Dallas,12402,7,No,No,1.55,0
+C3586,P9586,40,Female,Lawyer,Sedan,13,Theft,Miami,20976,5,No,No,1.17,0
+C3587,P9587,27,Female,Engineer,SUV,9,Theft,Chicago,19593,7,Yes,No,1.4,0
+C3588,P9588,66,Female,Retired,SUV,13,Collision,Chicago,39925,3,Yes,No,2.22,0
+C3589,P9589,30,Female,Lawyer,Convertible,7,Theft,Los Angeles,47654,6,No,Yes,3.97,0
+C3590,P9590,34,Male,Student,Sedan,9,Fire,Boston,45668,4,No,No,3.26,0
+C3591,P9591,44,Male,Businessman,SUV,3,Theft,Chicago,8032,7,No,No,1.0,0
+C3592,P9592,62,Female,Teacher,Truck,1,Theft,New York,35859,0,Yes,Yes,5.98,0
+C3593,P9593,36,Female,Teacher,Convertible,12,Theft,Los Angeles,6711,2,Yes,No,0.39,0
+C3594,P9594,31,Female,Student,Truck,13,Collision,Chicago,31188,0,No,Yes,1.73,0
+C3595,P9595,66,Male,Engineer,Truck,13,Collision,New York,36398,7,Yes,Yes,2.02,0
+C3596,P9596,34,Female,Businessman,SUV,2,Fire,Los Angeles,26018,7,Yes,Yes,3.72,0
+C3597,P9597,30,Female,Doctor,SUV,9,Fire,Los Angeles,31787,6,No,No,2.27,0
+C3598,P9598,28,Male,Doctor,SUV,5,Collision,Boston,20383,3,No,Yes,2.04,0
+C3599,P9599,60,Male,Engineer,Sedan,11,Collision,Chicago,1787,2,No,Yes,0.11,0
+C3600,P9600,43,Male,Engineer,SUV,10,Fire,Miami,45915,2,No,Yes,3.06,0
+C3601,P9601,33,Male,Student,SUV,11,Fire,Chicago,50578,0,Yes,No,3.16,0
+C3602,P9602,59,Male,Doctor,SUV,3,Collision,Los Angeles,21557,5,No,Yes,2.69,0
+C3603,P9603,19,Female,Retired,Sedan,5,Theft,Miami,47109,7,No,No,4.71,0
+C3604,P9604,30,Male,Lawyer,Truck,6,Fire,Miami,18843,2,Yes,Yes,1.71,0
+C3605,P9605,46,Female,Businessman,Truck,9,Collision,Miami,847,6,Yes,Yes,0.06,0
+C3606,P9606,57,Female,Businessman,Sedan,6,Fire,New York,43941,6,Yes,No,3.99,0
+C3607,P9607,67,Male,Lawyer,Truck,6,Collision,Boston,21904,1,Yes,Yes,1.99,0
+C3608,P9608,20,Male,Teacher,SUV,4,Theft,Miami,13357,1,Yes,No,1.48,0
+C3609,P9609,60,Female,Lawyer,Truck,1,Collision,Los Angeles,40511,1,Yes,Yes,6.75,0
+C3610,P9610,59,Female,Businessman,SUV,8,Fire,New York,24453,6,No,Yes,1.88,0
+C3611,P9611,70,Female,Lawyer,SUV,12,Theft,Chicago,5907,3,Yes,Yes,0.35,0
+C3612,P9612,64,Male,Lawyer,Convertible,4,Theft,Dallas,43849,3,Yes,No,4.87,0
+C3613,P9613,65,Male,Businessman,Truck,11,Collision,Boston,44397,6,Yes,Yes,2.77,0
+C3614,P9614,68,Male,Lawyer,Convertible,9,Collision,Boston,11166,7,No,No,0.8,0
+C3615,P9615,53,Female,Businessman,Truck,7,Fire,Miami,54942,5,Yes,Yes,4.58,0
+C3616,P9616,42,Female,Retired,Convertible,8,Collision,New York,48399,0,No,Yes,3.72,0
+C3617,P9617,51,Male,Retired,SUV,5,Theft,Los Angeles,56880,5,Yes,No,5.69,0
+C3618,P9618,53,Male,Engineer,SUV,8,Collision,Los Angeles,9870,4,No,Yes,0.76,0
+C3619,P9619,32,Female,Businessman,Truck,2,Fire,Miami,38094,3,Yes,No,5.44,0
+C3620,P9620,68,Female,Teacher,Convertible,14,Fire,Boston,38563,1,No,Yes,2.03,0
+C3621,P9621,64,Female,Engineer,SUV,15,Collision,Chicago,58458,6,No,Yes,2.92,0
+C3622,P9622,67,Male,Doctor,SUV,11,Fire,Miami,4347,4,Yes,No,0.27,0
+C3623,P9623,52,Male,Retired,Sedan,3,Theft,Boston,48744,6,No,Yes,6.09,0
+C3624,P9624,32,Female,Retired,Convertible,3,Theft,Chicago,6209,7,Yes,No,0.78,0
+C3625,P9625,34,Male,Student,Convertible,13,Fire,Los Angeles,50740,2,No,Yes,2.82,0
+C3626,P9626,49,Female,Doctor,Sedan,9,Fire,Boston,35157,3,Yes,Yes,2.51,0
+C3627,P9627,35,Female,Retired,SUV,2,Fire,Miami,28557,5,No,Yes,4.08,0
+C3628,P9628,38,Female,Lawyer,SUV,13,Collision,Los Angeles,23719,7,Yes,No,1.32,0
+C3629,P9629,20,Male,Teacher,Truck,3,Fire,New York,8164,0,Yes,Yes,1.02,0
+C3630,P9630,70,Female,Engineer,Truck,12,Theft,Chicago,30295,7,Yes,No,1.78,0
+C3631,P9631,31,Male,Teacher,Truck,9,Collision,Dallas,48636,2,Yes,No,3.47,0
+C3632,P9632,55,Male,Retired,Sedan,1,Collision,Los Angeles,52520,4,Yes,No,8.75,0
+C3633,P9633,59,Male,Engineer,Convertible,11,Collision,Boston,56642,5,Yes,Yes,3.54,0
+C3634,P9634,36,Female,Teacher,Convertible,9,Fire,New York,21473,7,Yes,Yes,1.53,0
+C3635,P9635,30,Female,Lawyer,SUV,1,Theft,Dallas,20783,5,No,No,3.46,0
+C3636,P9636,65,Male,Engineer,Truck,11,Collision,Chicago,41775,4,Yes,No,2.61,0
+C3637,P9637,69,Male,Doctor,Truck,15,Collision,New York,37168,4,Yes,Yes,1.86,0
+C3638,P9638,39,Female,Doctor,Sedan,2,Fire,Miami,34925,3,No,Yes,4.99,0
+C3639,P9639,54,Male,Student,Truck,15,Fire,Chicago,30236,2,Yes,Yes,1.51,0
+C3640,P9640,55,Male,Businessman,Sedan,5,Fire,Boston,59693,2,No,Yes,5.97,0
+C3641,P9641,59,Male,Retired,SUV,9,Fire,Boston,8558,2,No,Yes,0.61,0
+C3642,P9642,64,Male,Businessman,Truck,15,Collision,Miami,20680,7,No,Yes,1.03,0
+C3643,P9643,67,Male,Engineer,Sedan,3,Theft,Dallas,41232,4,Yes,Yes,5.15,0
+C3644,P9644,32,Male,Retired,SUV,12,Collision,Los Angeles,33720,7,No,Yes,1.98,0
+C3645,P9645,42,Female,Student,Sedan,3,Theft,Los Angeles,2912,6,Yes,No,0.36,0
+C3646,P9646,44,Male,Doctor,Sedan,13,Theft,New York,12404,7,No,No,0.69,0
+C3647,P9647,47,Male,Student,Convertible,13,Theft,Dallas,48990,6,No,No,2.72,0
+C3648,P9648,57,Male,Lawyer,SUV,8,Collision,New York,58326,3,No,Yes,4.49,0
+C3649,P9649,53,Female,Lawyer,SUV,4,Collision,Miami,26885,4,No,No,2.99,0
+C3650,P9650,28,Female,Retired,SUV,12,Fire,Los Angeles,31181,7,Yes,Yes,1.83,0
+C3651,P9651,29,Male,Student,Convertible,6,Collision,New York,12522,7,Yes,No,1.14,0
+C3652,P9652,23,Female,Retired,Sedan,12,Fire,New York,6776,1,No,No,0.4,0
+C3653,P9653,23,Female,Doctor,Sedan,7,Fire,Miami,3677,2,No,Yes,0.31,0
+C3654,P9654,28,Male,Teacher,SUV,7,Collision,Chicago,48651,7,No,Yes,4.05,0
+C3655,P9655,25,Male,Teacher,SUV,10,Collision,New York,30857,7,No,Yes,2.06,0
+C3656,P9656,56,Female,Teacher,Sedan,10,Fire,Miami,30536,6,No,Yes,2.04,0
+C3657,P9657,56,Male,Teacher,Truck,10,Fire,Dallas,54547,3,Yes,Yes,3.64,0
+C3658,P9658,27,Male,Doctor,Truck,1,Theft,New York,44512,4,No,Yes,7.42,0
+C3659,P9659,21,Male,Student,Sedan,3,Fire,Chicago,40848,2,No,No,5.11,0
+C3660,P9660,20,Male,Businessman,Truck,6,Collision,Miami,54556,1,No,Yes,4.96,0
+C3661,P9661,36,Female,Teacher,SUV,12,Collision,Chicago,35340,6,Yes,Yes,2.08,0
+C3662,P9662,57,Male,Engineer,SUV,8,Fire,Boston,40434,4,No,No,3.11,0
+C3663,P9663,34,Female,Teacher,Convertible,9,Fire,Boston,33419,7,Yes,Yes,2.39,0
+C3664,P9664,63,Female,Teacher,SUV,2,Theft,Miami,41790,1,Yes,No,5.97,0
+C3665,P9665,44,Male,Retired,Truck,9,Fire,Los Angeles,1540,3,No,No,0.11,0
+C3666,P9666,68,Male,Retired,Truck,9,Fire,Chicago,51068,0,Yes,No,3.65,0
+C3667,P9667,39,Female,Doctor,SUV,14,Theft,Los Angeles,22460,5,No,No,1.18,0
+C3668,P9668,69,Male,Doctor,Sedan,8,Theft,Boston,30987,5,No,No,2.38,0
+C3669,P9669,65,Male,Businessman,Truck,10,Fire,Boston,21476,0,Yes,No,1.43,0
+C3670,P9670,69,Female,Engineer,Sedan,5,Theft,Chicago,25391,2,No,Yes,2.54,0
+C3671,P9671,56,Male,Businessman,Truck,12,Collision,Boston,2872,4,No,Yes,0.17,0
+C3672,P9672,49,Male,Retired,Convertible,14,Collision,Los Angeles,35212,4,Yes,Yes,1.85,0
+C3673,P9673,41,Male,Businessman,Sedan,15,Theft,Miami,33960,0,No,Yes,1.7,0
+C3674,P9674,30,Female,Student,Truck,13,Collision,Los Angeles,51228,1,Yes,Yes,2.85,0
+C3675,P9675,64,Male,Student,Convertible,12,Fire,New York,1069,4,Yes,Yes,0.06,0
+C3676,P9676,39,Female,Engineer,SUV,9,Fire,Boston,21278,0,No,Yes,1.52,0
+C3677,P9677,38,Male,Teacher,Truck,5,Fire,Chicago,51445,7,Yes,No,5.14,0
+C3678,P9678,27,Male,Retired,SUV,1,Fire,Dallas,34489,1,Yes,No,5.75,0
+C3679,P9679,53,Female,Retired,Sedan,12,Collision,Dallas,16844,2,Yes,No,0.99,0
+C3680,P9680,57,Female,Lawyer,Convertible,1,Theft,New York,31650,0,Yes,No,5.28,0
+C3681,P9681,21,Male,Student,Convertible,3,Fire,Dallas,59210,7,No,No,7.4,0
+C3682,P9682,39,Male,Doctor,SUV,15,Collision,Dallas,9437,1,No,Yes,0.47,0
+C3683,P9683,47,Female,Doctor,Convertible,8,Theft,Los Angeles,10218,4,No,No,0.79,0
+C3684,P9684,29,Female,Businessman,Truck,8,Collision,New York,5083,7,Yes,No,0.39,0
+C3685,P9685,48,Female,Businessman,Sedan,5,Collision,Dallas,38462,2,Yes,No,3.85,0
+C3686,P9686,70,Male,Retired,SUV,13,Collision,Dallas,31010,6,No,Yes,1.72,0
+C3687,P9687,57,Male,Lawyer,Sedan,8,Collision,New York,23129,3,No,No,1.78,0
+C3688,P9688,54,Female,Lawyer,Sedan,3,Fire,Boston,5904,7,Yes,No,0.74,0
+C3689,P9689,38,Male,Businessman,Convertible,3,Collision,Miami,5361,1,No,No,0.67,0
+C3690,P9690,49,Male,Engineer,Sedan,14,Theft,Dallas,59995,0,Yes,Yes,3.16,0
+C3691,P9691,46,Female,Student,Convertible,4,Theft,Boston,58302,5,No,No,6.48,0
+C3692,P9692,45,Female,Engineer,SUV,10,Fire,Miami,56350,2,No,Yes,3.76,0
+C3693,P9693,41,Male,Engineer,Truck,2,Collision,New York,16216,6,No,No,2.32,0
+C3694,P9694,63,Female,Student,Convertible,7,Fire,Los Angeles,44216,2,No,Yes,3.68,0
+C3695,P9695,30,Female,Businessman,Truck,14,Collision,Los Angeles,19705,2,Yes,Yes,1.04,0
+C3696,P9696,22,Male,Teacher,Convertible,11,Collision,Los Angeles,6348,2,No,No,0.4,0
+C3697,P9697,68,Female,Lawyer,Sedan,8,Fire,Miami,36979,7,No,No,2.84,0
+C3698,P9698,32,Male,Student,SUV,10,Collision,Boston,16315,4,No,No,1.09,0
+C3699,P9699,20,Male,Lawyer,Convertible,12,Collision,New York,38828,7,Yes,Yes,2.28,0
+C3700,P9700,64,Female,Student,SUV,9,Fire,New York,16871,7,Yes,No,1.21,0
+C3701,P9701,57,Male,Retired,SUV,8,Collision,Dallas,31551,5,No,No,2.43,0
+C3702,P9702,69,Female,Retired,Sedan,1,Fire,Dallas,49914,4,No,Yes,8.32,0
+C3703,P9703,58,Female,Lawyer,Sedan,10,Theft,Boston,19920,0,No,No,1.33,0
+C3704,P9704,23,Male,Lawyer,SUV,14,Collision,Chicago,9486,4,No,No,0.5,0
+C3705,P9705,18,Male,Lawyer,Sedan,15,Fire,Boston,10704,7,No,Yes,0.54,0
+C3706,P9706,34,Male,Student,Sedan,13,Fire,New York,23268,1,Yes,Yes,1.29,0
+C3707,P9707,49,Female,Businessman,Convertible,4,Fire,Miami,48379,2,Yes,No,5.38,0
+C3708,P9708,21,Female,Businessman,SUV,1,Theft,Miami,26932,7,No,No,4.49,0
+C3709,P9709,65,Male,Student,Convertible,8,Collision,Los Angeles,35563,6,Yes,No,2.74,0
+C3710,P9710,69,Female,Student,Truck,9,Fire,New York,7180,5,No,No,0.51,0
+C3711,P9711,39,Female,Retired,SUV,5,Fire,Dallas,26434,7,Yes,Yes,2.64,0
+C3712,P9712,51,Female,Doctor,Sedan,6,Fire,New York,44892,0,Yes,Yes,4.08,0
+C3713,P9713,44,Male,Lawyer,SUV,11,Collision,Chicago,15179,4,No,Yes,0.95,0
+C3714,P9714,20,Male,Lawyer,SUV,1,Fire,Boston,59387,3,Yes,Yes,9.9,0
+C3715,P9715,23,Male,Student,Sedan,15,Theft,Boston,12875,4,No,No,0.64,0
+C3716,P9716,60,Male,Doctor,Convertible,15,Collision,Miami,46165,5,No,Yes,2.31,0
+C3717,P9717,67,Male,Retired,SUV,7,Collision,Chicago,4736,4,No,Yes,0.39,0
+C3718,P9718,46,Male,Student,Sedan,10,Collision,Los Angeles,43102,7,Yes,Yes,2.87,0
+C3719,P9719,52,Female,Teacher,SUV,15,Collision,Boston,17773,1,Yes,Yes,0.89,0
+C3720,P9720,22,Female,Businessman,Convertible,1,Collision,Los Angeles,43586,0,Yes,No,7.26,0
+C3721,P9721,35,Male,Doctor,Truck,15,Collision,Dallas,1042,7,No,No,0.05,0
+C3722,P9722,43,Male,Lawyer,Sedan,1,Collision,Boston,54406,7,Yes,No,9.07,0
+C3723,P9723,39,Female,Student,SUV,11,Fire,New York,24743,5,Yes,No,1.55,0
+C3724,P9724,66,Female,Doctor,Sedan,3,Fire,New York,25976,3,No,No,3.25,0
+C3725,P9725,24,Female,Student,SUV,15,Fire,Miami,48990,3,Yes,Yes,2.45,0
+C3726,P9726,30,Male,Doctor,Sedan,8,Collision,New York,52752,4,No,No,4.06,0
+C3727,P9727,19,Male,Retired,SUV,6,Fire,New York,27375,1,Yes,No,2.49,0
+C3728,P9728,61,Male,Doctor,Sedan,15,Theft,New York,48999,2,No,Yes,2.45,0
+C3729,P9729,48,Male,Teacher,Sedan,1,Theft,Boston,4074,4,Yes,No,0.68,0
+C3730,P9730,57,Male,Businessman,SUV,14,Theft,New York,33380,3,Yes,Yes,1.76,0
+C3731,P9731,45,Female,Businessman,Convertible,6,Theft,Boston,38546,2,No,Yes,3.5,0
+C3732,P9732,66,Male,Lawyer,Sedan,6,Theft,New York,18749,2,No,Yes,1.7,0
+C3733,P9733,62,Female,Lawyer,Sedan,8,Theft,Dallas,3467,2,Yes,No,0.27,0
+C3734,P9734,67,Male,Engineer,Convertible,2,Theft,New York,12558,1,No,No,1.79,0
+C3735,P9735,62,Female,Doctor,Sedan,4,Theft,Boston,18556,7,No,Yes,2.06,0
+C3736,P9736,29,Male,Lawyer,Sedan,12,Collision,Dallas,6568,4,No,No,0.39,0
+C3737,P9737,18,Male,Teacher,SUV,9,Theft,Dallas,24517,3,No,Yes,1.75,0
+C3738,P9738,35,Male,Teacher,SUV,13,Theft,Boston,56098,7,No,Yes,3.12,0
+C3739,P9739,28,Male,Engineer,Truck,5,Theft,Miami,17274,5,No,Yes,1.73,0
+C3740,P9740,24,Male,Lawyer,Sedan,3,Theft,Miami,34544,1,Yes,Yes,4.32,0
+C3741,P9741,64,Female,Lawyer,Truck,7,Theft,Boston,45158,5,Yes,Yes,3.76,0
+C3742,P9742,38,Male,Engineer,Sedan,12,Collision,Los Angeles,25410,3,Yes,No,1.49,0
+C3743,P9743,55,Female,Engineer,Convertible,3,Theft,Dallas,30618,2,No,No,3.83,0
+C3744,P9744,26,Female,Doctor,Sedan,11,Collision,Chicago,14052,5,Yes,Yes,0.88,0
+C3745,P9745,62,Male,Retired,Sedan,2,Collision,Miami,28208,2,No,Yes,4.03,0
+C3746,P9746,36,Male,Businessman,Sedan,10,Fire,Los Angeles,6467,6,No,Yes,0.43,0
+C3747,P9747,55,Female,Businessman,Convertible,5,Theft,Boston,28856,3,Yes,No,2.89,0
+C3748,P9748,45,Male,Lawyer,Sedan,15,Fire,New York,28179,0,Yes,No,1.41,0
+C3749,P9749,64,Male,Student,Convertible,8,Fire,New York,30451,7,Yes,Yes,2.34,0
+C3750,P9750,53,Male,Doctor,Convertible,4,Theft,Chicago,20184,3,Yes,Yes,2.24,0
+C3751,P9751,48,Female,Teacher,Convertible,14,Fire,Boston,39050,0,No,No,2.06,0
+C3752,P9752,67,Male,Businessman,Convertible,3,Collision,Boston,31228,0,Yes,No,3.9,0
+C3753,P9753,62,Female,Lawyer,SUV,5,Collision,Chicago,46547,3,Yes,No,4.65,0
+C3754,P9754,65,Male,Lawyer,Truck,15,Theft,New York,25897,5,No,Yes,1.29,0
+C3755,P9755,41,Female,Teacher,SUV,9,Fire,Los Angeles,9870,5,Yes,Yes,0.7,0
+C3756,P9756,59,Female,Doctor,Sedan,13,Fire,Los Angeles,21801,5,No,No,1.21,0
+C3757,P9757,35,Male,Engineer,Truck,6,Collision,Miami,33663,1,No,No,3.06,0
+C3758,P9758,46,Female,Businessman,SUV,4,Collision,New York,6054,6,Yes,No,0.67,0
+C3759,P9759,22,Male,Teacher,Truck,2,Fire,Los Angeles,33327,2,Yes,Yes,4.76,0
+C3760,P9760,36,Female,Doctor,Sedan,8,Collision,Miami,29888,0,No,Yes,2.3,0
+C3761,P9761,22,Male,Businessman,Sedan,14,Fire,Boston,22812,6,No,No,1.2,0
+C3762,P9762,49,Female,Student,Truck,10,Theft,Chicago,12054,4,Yes,No,0.8,0
+C3763,P9763,41,Female,Businessman,SUV,3,Collision,Chicago,30679,2,Yes,No,3.83,0
+C3764,P9764,29,Male,Businessman,Sedan,3,Theft,New York,3496,5,Yes,No,0.44,0
+C3765,P9765,34,Female,Teacher,Sedan,9,Fire,New York,44417,5,No,Yes,3.17,0
+C3766,P9766,41,Female,Lawyer,Sedan,9,Collision,New York,2433,6,No,Yes,0.17,0
+C3767,P9767,47,Female,Teacher,SUV,12,Fire,Dallas,22510,4,No,No,1.32,0
+C3768,P9768,66,Male,Businessman,Convertible,6,Fire,New York,48748,7,Yes,Yes,4.43,0
+C3769,P9769,61,Male,Retired,SUV,7,Fire,Los Angeles,30027,5,Yes,No,2.5,0
+C3770,P9770,21,Male,Lawyer,Sedan,13,Collision,Los Angeles,2277,1,No,Yes,0.13,0
+C3771,P9771,50,Female,Teacher,Convertible,6,Fire,Dallas,34325,0,No,No,3.12,0
+C3772,P9772,27,Female,Retired,Convertible,6,Theft,Chicago,23404,5,No,No,2.13,0
+C3773,P9773,53,Male,Teacher,Convertible,12,Collision,Miami,19715,2,No,No,1.16,0
+C3774,P9774,26,Male,Teacher,Sedan,5,Collision,Dallas,22781,1,No,Yes,2.28,0
+C3775,P9775,18,Female,Doctor,Truck,7,Theft,Dallas,31085,2,Yes,Yes,2.59,0
+C3776,P9776,42,Female,Lawyer,Convertible,1,Collision,Dallas,20717,7,No,Yes,3.45,0
+C3777,P9777,19,Male,Teacher,Truck,5,Fire,Boston,31768,1,No,No,3.18,0
+C3778,P9778,29,Female,Doctor,Sedan,1,Theft,Chicago,33112,1,No,No,5.52,0
+C3779,P9779,54,Female,Businessman,Truck,11,Fire,Miami,46298,1,No,Yes,2.89,0
+C3780,P9780,34,Male,Lawyer,SUV,3,Collision,Miami,58361,2,No,Yes,7.3,0
+C3781,P9781,21,Female,Retired,Convertible,11,Collision,New York,19796,4,Yes,Yes,1.24,0
+C3782,P9782,67,Male,Businessman,SUV,10,Theft,Dallas,21942,5,No,No,1.46,0
+C3783,P9783,61,Female,Engineer,Truck,14,Theft,New York,9775,4,No,No,0.51,0
+C3784,P9784,44,Female,Teacher,SUV,4,Theft,Dallas,15290,3,Yes,No,1.7,0
+C3785,P9785,47,Male,Engineer,Sedan,15,Theft,Miami,23620,4,No,Yes,1.18,0
+C3786,P9786,70,Female,Lawyer,Truck,3,Fire,Chicago,2684,1,Yes,Yes,0.34,0
+C3787,P9787,62,Male,Doctor,Sedan,5,Theft,Los Angeles,9333,1,No,Yes,0.93,0
+C3788,P9788,22,Male,Businessman,Convertible,13,Collision,New York,13668,1,Yes,Yes,0.76,0
+C3789,P9789,48,Male,Retired,SUV,2,Collision,Boston,1473,1,Yes,Yes,0.21,0
+C3790,P9790,55,Male,Teacher,Truck,1,Theft,Los Angeles,56234,4,No,No,9.37,0
+C3791,P9791,28,Male,Lawyer,SUV,2,Fire,New York,35457,3,Yes,No,5.07,0
+C3792,P9792,28,Male,Doctor,SUV,15,Theft,Dallas,56590,7,No,Yes,2.83,0
+C3793,P9793,46,Male,Teacher,Truck,7,Collision,Los Angeles,34501,3,No,Yes,2.88,0
+C3794,P9794,66,Female,Engineer,Convertible,2,Fire,Los Angeles,33293,5,No,Yes,4.76,0
+C3795,P9795,23,Female,Student,SUV,7,Collision,Miami,40147,4,No,Yes,3.35,0
+C3796,P9796,53,Female,Retired,Convertible,4,Theft,Miami,45307,5,Yes,Yes,5.03,0
+C3797,P9797,61,Female,Doctor,SUV,7,Collision,Dallas,43958,1,Yes,Yes,3.66,0
+C3798,P9798,43,Female,Doctor,SUV,12,Theft,New York,24636,3,No,Yes,1.45,0
+C3799,P9799,56,Female,Engineer,Sedan,14,Collision,Boston,33509,4,No,No,1.76,0
+C3800,P9800,40,Female,Doctor,Convertible,8,Fire,Chicago,10458,7,Yes,Yes,0.8,0
+C3801,P9801,34,Female,Student,Sedan,11,Theft,New York,7327,0,Yes,No,0.46,0
+C3802,P9802,61,Male,Teacher,Convertible,10,Fire,Chicago,10809,4,Yes,Yes,0.72,0
+C3803,P9803,60,Female,Businessman,Convertible,4,Collision,Boston,33430,7,No,No,3.71,0
+C3804,P9804,69,Male,Businessman,SUV,7,Theft,Miami,30298,5,No,No,2.52,0
+C3805,P9805,47,Male,Engineer,Sedan,9,Fire,Chicago,58779,2,No,No,4.2,0
+C3806,P9806,26,Female,Doctor,Convertible,8,Theft,Dallas,45038,7,No,No,3.46,0
+C3807,P9807,53,Male,Lawyer,SUV,7,Collision,Miami,39534,6,No,No,3.29,0
+C3808,P9808,38,Male,Engineer,SUV,3,Collision,Chicago,53854,0,No,No,6.73,0
+C3809,P9809,24,Female,Retired,Truck,7,Collision,New York,44135,3,Yes,Yes,3.68,0
+C3810,P9810,59,Female,Lawyer,SUV,15,Fire,New York,57746,4,Yes,No,2.89,0
+C3811,P9811,28,Male,Lawyer,Truck,1,Collision,Boston,57381,6,No,No,9.56,0
+C3812,P9812,19,Female,Lawyer,SUV,6,Collision,Dallas,26378,5,Yes,No,2.4,0
+C3813,P9813,24,Male,Retired,Convertible,9,Fire,Chicago,11720,4,No,No,0.84,0
+C3814,P9814,30,Female,Doctor,SUV,14,Fire,Los Angeles,19632,4,Yes,No,1.03,0
+C3815,P9815,54,Female,Businessman,Sedan,10,Fire,New York,47835,1,No,No,3.19,0
+C3816,P9816,22,Female,Student,Sedan,6,Theft,Boston,54784,4,No,No,4.98,0
+C3817,P9817,60,Female,Teacher,Convertible,7,Collision,Dallas,34575,7,Yes,Yes,2.88,0
+C3818,P9818,58,Male,Lawyer,Convertible,4,Fire,Boston,31424,4,No,Yes,3.49,0
+C3819,P9819,51,Male,Retired,Convertible,3,Theft,Los Angeles,49718,4,No,No,6.21,0
+C3820,P9820,38,Male,Doctor,Sedan,14,Collision,Chicago,54782,4,Yes,No,2.88,0
+C3821,P9821,61,Male,Student,Sedan,2,Theft,Los Angeles,2615,3,No,No,0.37,0
+C3822,P9822,49,Female,Student,SUV,4,Theft,Chicago,9741,0,No,No,1.08,0
+C3823,P9823,60,Male,Doctor,SUV,12,Collision,New York,4425,1,No,No,0.26,0
+C3824,P9824,22,Female,Retired,SUV,7,Fire,Los Angeles,16269,1,Yes,No,1.36,0
+C3825,P9825,49,Male,Teacher,SUV,13,Collision,Chicago,55347,6,Yes,No,3.07,0
+C3826,P9826,31,Male,Engineer,Sedan,4,Collision,Miami,27563,4,Yes,No,3.06,0
+C3827,P9827,52,Female,Doctor,SUV,6,Fire,Miami,31920,3,No,Yes,2.9,0
+C3828,P9828,41,Female,Doctor,Truck,14,Collision,New York,43096,0,Yes,Yes,2.27,0
+C3829,P9829,34,Female,Retired,Truck,15,Fire,New York,35855,3,No,No,1.79,0
+C3830,P9830,18,Female,Retired,Truck,2,Theft,Chicago,14587,2,No,No,2.08,0
+C3831,P9831,69,Female,Businessman,SUV,5,Theft,Miami,31673,6,No,No,3.17,0
+C3832,P9832,70,Male,Businessman,Sedan,12,Collision,Dallas,5149,5,No,No,0.3,0
+C3833,P9833,47,Male,Businessman,SUV,11,Fire,Los Angeles,42097,7,Yes,Yes,2.63,0
+C3834,P9834,43,Male,Doctor,Truck,6,Fire,New York,8063,2,Yes,Yes,0.73,0
+C3835,P9835,56,Female,Businessman,Truck,8,Collision,Boston,9549,4,Yes,No,0.73,0
+C3836,P9836,69,Female,Teacher,SUV,7,Collision,Los Angeles,26588,6,Yes,Yes,2.22,0
+C3837,P9837,19,Male,Engineer,Convertible,4,Collision,Boston,56625,2,Yes,No,6.29,0
+C3838,P9838,57,Female,Lawyer,Truck,3,Theft,Chicago,11949,1,Yes,No,1.49,0
+C3839,P9839,67,Female,Businessman,Convertible,2,Theft,Boston,14113,3,No,No,2.02,0
+C3840,P9840,65,Female,Student,Sedan,7,Theft,Dallas,14927,4,Yes,No,1.24,0
+C3841,P9841,29,Female,Businessman,Sedan,1,Collision,Chicago,16232,7,Yes,No,2.71,0
+C3842,P9842,55,Female,Engineer,SUV,8,Theft,Chicago,46217,6,Yes,No,3.56,0
+C3843,P9843,63,Female,Doctor,Truck,2,Theft,Dallas,4650,0,No,Yes,0.66,0
+C3844,P9844,48,Female,Lawyer,SUV,1,Collision,Dallas,41409,6,No,No,6.9,0
+C3845,P9845,60,Female,Teacher,SUV,10,Theft,Chicago,11932,7,No,No,0.8,0
+C3846,P9846,26,Male,Retired,Convertible,3,Collision,New York,21330,0,Yes,No,2.67,0
+C3847,P9847,35,Female,Student,Truck,15,Collision,Dallas,55167,4,No,No,2.76,0
+C3848,P9848,28,Female,Doctor,Convertible,13,Theft,Dallas,56704,7,Yes,Yes,3.15,0
+C3849,P9849,27,Male,Teacher,Sedan,1,Collision,Chicago,11518,7,No,Yes,1.92,0
+C3850,P9850,49,Male,Student,Truck,12,Fire,Miami,30799,7,Yes,Yes,1.81,0
+C3851,P9851,25,Female,Engineer,Sedan,14,Collision,Los Angeles,55519,2,No,Yes,2.92,0
+C3852,P9852,55,Male,Lawyer,Sedan,7,Theft,Los Angeles,51148,7,Yes,No,4.26,0
+C3853,P9853,19,Female,Doctor,SUV,7,Collision,Dallas,7751,5,Yes,Yes,0.65,0
+C3854,P9854,23,Female,Businessman,Convertible,8,Fire,Chicago,39741,0,No,Yes,3.06,0
+C3855,P9855,59,Female,Retired,Sedan,4,Theft,Boston,19343,5,Yes,Yes,2.15,0
+C3856,P9856,53,Female,Engineer,Convertible,5,Theft,Los Angeles,51320,6,Yes,Yes,5.13,0
+C3857,P9857,31,Male,Student,Convertible,5,Fire,Boston,10901,1,No,No,1.09,0
+C3858,P9858,69,Female,Doctor,Truck,15,Fire,Dallas,9404,5,Yes,No,0.47,0
+C3859,P9859,50,Male,Student,Convertible,15,Collision,Miami,18395,6,Yes,No,0.92,0
+C3860,P9860,69,Female,Lawyer,Sedan,7,Fire,Miami,6891,0,No,No,0.57,0
+C3861,P9861,61,Male,Doctor,Sedan,15,Collision,Dallas,42058,1,No,No,2.1,0
+C3862,P9862,45,Male,Businessman,Convertible,5,Theft,Los Angeles,45647,4,Yes,No,4.56,0
+C3863,P9863,36,Male,Lawyer,SUV,15,Theft,Dallas,7853,6,No,Yes,0.39,0
+C3864,P9864,47,Female,Retired,Truck,10,Theft,Dallas,1866,1,No,Yes,0.12,0
+C3865,P9865,68,Male,Businessman,Convertible,1,Theft,Miami,58259,4,No,No,9.71,0
+C3866,P9866,66,Female,Lawyer,Truck,6,Theft,Los Angeles,12929,1,No,Yes,1.18,0
+C3867,P9867,45,Male,Engineer,Convertible,2,Theft,Los Angeles,43778,7,No,No,6.25,0
+C3868,P9868,60,Female,Retired,Truck,12,Fire,Boston,45043,6,No,Yes,2.65,0
+C3869,P9869,26,Male,Engineer,Sedan,2,Theft,Boston,13135,0,Yes,No,1.88,0
+C3870,P9870,59,Male,Doctor,Sedan,7,Fire,Dallas,13311,1,No,No,1.11,0
+C3871,P9871,27,Female,Student,SUV,2,Theft,Los Angeles,49216,7,No,No,7.03,0
+C3872,P9872,19,Female,Lawyer,Sedan,4,Collision,Dallas,55158,6,Yes,No,6.13,0
+C3873,P9873,18,Male,Doctor,Convertible,7,Collision,Boston,38723,4,Yes,No,3.23,0
+C3874,P9874,43,Female,Lawyer,Convertible,4,Fire,New York,35423,0,No,No,3.94,0
+C3875,P9875,53,Male,Retired,Convertible,15,Collision,New York,33226,5,No,No,1.66,0
+C3876,P9876,19,Male,Retired,Sedan,8,Collision,Miami,16011,3,No,No,1.23,0
+C3877,P9877,26,Female,Doctor,Convertible,7,Fire,Boston,48941,5,No,Yes,4.08,0
+C3878,P9878,57,Male,Retired,SUV,11,Collision,Los Angeles,12156,3,Yes,No,0.76,0
+C3879,P9879,24,Female,Student,Truck,4,Theft,Dallas,3883,0,No,No,0.43,0
+C3880,P9880,40,Male,Teacher,SUV,13,Theft,Chicago,29021,1,Yes,Yes,1.61,0
+C3881,P9881,53,Male,Student,Truck,6,Collision,New York,51268,4,Yes,Yes,4.66,0
+C3882,P9882,63,Male,Student,Convertible,14,Theft,New York,52026,1,Yes,Yes,2.74,0
+C3883,P9883,28,Male,Businessman,Sedan,15,Collision,Los Angeles,48533,4,No,No,2.43,0
+C3884,P9884,64,Male,Teacher,Truck,6,Theft,New York,56413,3,No,No,5.13,0
+C3885,P9885,67,Male,Teacher,Convertible,6,Collision,Dallas,12023,1,No,No,1.09,0
+C3886,P9886,63,Female,Retired,Sedan,3,Fire,Miami,52390,3,Yes,No,6.55,0
+C3887,P9887,44,Female,Student,Truck,1,Collision,Los Angeles,51272,0,Yes,Yes,8.55,0
+C3888,P9888,39,Female,Student,Sedan,7,Theft,Miami,50554,0,Yes,Yes,4.21,0
+C3889,P9889,58,Female,Student,Convertible,15,Fire,Boston,37081,4,No,No,1.85,0
+C3890,P9890,18,Female,Lawyer,Sedan,12,Collision,Miami,42997,3,No,No,2.53,0
+C3891,P9891,69,Female,Businessman,Sedan,15,Collision,New York,3222,5,No,Yes,0.16,0
+C3892,P9892,51,Female,Teacher,SUV,9,Fire,Chicago,34966,5,Yes,Yes,2.5,0
+C3893,P9893,19,Female,Teacher,Truck,12,Collision,Dallas,8037,0,No,No,0.47,0
+C3894,P9894,58,Female,Engineer,SUV,13,Fire,New York,30208,4,Yes,No,1.68,0
+C3895,P9895,39,Male,Businessman,Sedan,6,Collision,Chicago,44507,2,No,Yes,4.05,0
+C3896,P9896,24,Female,Lawyer,Sedan,14,Collision,Miami,7221,2,No,No,0.38,0
+C3897,P9897,23,Male,Engineer,Convertible,15,Theft,Miami,14876,7,Yes,No,0.74,0
+C3898,P9898,61,Female,Lawyer,Convertible,14,Collision,Dallas,33491,6,No,No,1.76,0
+C3899,P9899,64,Female,Businessman,Sedan,3,Fire,Los Angeles,32569,7,Yes,Yes,4.07,0
+C3900,P9900,62,Male,Student,Convertible,1,Fire,Los Angeles,37436,5,Yes,No,6.24,0
+C3901,P9901,25,Male,Retired,Truck,1,Fire,Los Angeles,8516,5,No,No,1.42,0
+C3902,P9902,37,Female,Student,SUV,13,Theft,Los Angeles,52166,6,Yes,No,2.9,0
+C3903,P9903,36,Male,Teacher,Convertible,1,Theft,Dallas,23649,1,Yes,No,3.94,0
+C3904,P9904,48,Female,Lawyer,Convertible,15,Collision,Miami,31944,2,Yes,No,1.6,0
+C3905,P9905,66,Female,Doctor,Convertible,3,Fire,Chicago,6653,6,No,Yes,0.83,0
+C3906,P9906,43,Female,Lawyer,SUV,11,Collision,Boston,18978,1,Yes,Yes,1.19,0
+C3907,P9907,54,Female,Lawyer,SUV,11,Fire,New York,13410,0,Yes,No,0.84,0
+C3908,P9908,50,Male,Engineer,Sedan,1,Collision,Los Angeles,16875,7,Yes,No,2.81,0
+C3909,P9909,43,Male,Student,SUV,6,Collision,Los Angeles,27993,0,No,No,2.54,0
+C3910,P9910,34,Male,Engineer,SUV,9,Theft,Chicago,10239,2,No,Yes,0.73,0
+C3911,P9911,27,Female,Student,Sedan,1,Fire,Chicago,12692,0,Yes,No,2.12,0
+C3912,P9912,42,Male,Retired,Sedan,7,Collision,Chicago,25409,1,Yes,Yes,2.12,0
+C3913,P9913,33,Male,Student,Convertible,2,Collision,New York,21662,7,No,Yes,3.09,0
+C3914,P9914,48,Male,Student,Sedan,15,Theft,Chicago,37111,1,Yes,Yes,1.86,0
+C3915,P9915,37,Female,Student,SUV,14,Fire,Dallas,14133,2,No,Yes,0.74,0
+C3916,P9916,68,Male,Lawyer,Convertible,15,Fire,Miami,3538,0,No,No,0.18,0
+C3917,P9917,59,Male,Engineer,SUV,15,Collision,Chicago,39981,4,No,No,2.0,0
+C3918,P9918,58,Male,Lawyer,Truck,1,Theft,Boston,35802,1,No,Yes,5.97,0
+C3919,P9919,43,Male,Businessman,Sedan,12,Fire,Chicago,58358,6,Yes,No,3.43,0
+C3920,P9920,61,Female,Doctor,Truck,13,Fire,Miami,18692,3,No,No,1.04,0
+C3921,P9921,31,Female,Lawyer,Truck,1,Fire,Los Angeles,43165,0,No,Yes,7.19,0
+C3922,P9922,18,Male,Student,Convertible,13,Collision,Dallas,6118,1,Yes,No,0.34,0
+C3923,P9923,61,Male,Retired,Convertible,14,Fire,Chicago,26146,2,Yes,Yes,1.38,0
+C3924,P9924,47,Female,Teacher,Convertible,1,Theft,Boston,2096,4,No,Yes,0.35,0
+C3925,P9925,23,Female,Businessman,Sedan,4,Collision,Chicago,3211,4,No,Yes,0.36,0
+C3926,P9926,18,Male,Businessman,Convertible,2,Collision,Dallas,33589,7,Yes,Yes,4.8,0
+C3927,P9927,60,Male,Engineer,Sedan,12,Theft,Los Angeles,17814,3,No,Yes,1.05,0
+C3928,P9928,61,Male,Doctor,Truck,11,Fire,Miami,928,6,Yes,No,0.06,0
+C3929,P9929,45,Female,Retired,SUV,11,Fire,Miami,33277,5,Yes,Yes,2.08,0
+C3930,P9930,21,Female,Student,Convertible,6,Theft,Miami,13553,5,Yes,Yes,1.23,0
+C3931,P9931,65,Male,Doctor,Convertible,2,Theft,Los Angeles,11579,5,No,Yes,1.65,0
+C3932,P9932,58,Male,Engineer,Convertible,7,Theft,Dallas,53046,5,No,Yes,4.42,0
+C3933,P9933,24,Female,Teacher,Truck,14,Theft,Chicago,34857,3,Yes,No,1.83,0
+C3934,P9934,66,Male,Doctor,Convertible,10,Theft,New York,4777,0,No,No,0.32,0
+C3935,P9935,62,Male,Businessman,Sedan,1,Collision,New York,20557,6,Yes,Yes,3.43,0
+C3936,P9936,61,Male,Lawyer,SUV,5,Collision,Miami,7080,6,Yes,Yes,0.71,0
+C3937,P9937,47,Female,Student,Convertible,15,Fire,Dallas,7437,5,Yes,No,0.37,0
+C3938,P9938,51,Female,Lawyer,Sedan,2,Theft,New York,39805,1,Yes,Yes,5.69,0
+C3939,P9939,58,Female,Retired,Convertible,8,Fire,Dallas,29938,2,Yes,Yes,2.3,0
+C3940,P9940,69,Male,Engineer,Sedan,5,Fire,Miami,34428,5,No,Yes,3.44,0
+C3941,P9941,27,Female,Retired,Truck,5,Collision,New York,34726,2,Yes,Yes,3.47,0
+C3942,P9942,50,Male,Student,Truck,4,Theft,Boston,13989,1,No,Yes,1.55,0
+C3943,P9943,60,Female,Doctor,Convertible,10,Fire,Chicago,56637,5,No,No,3.78,0
+C3944,P9944,39,Male,Engineer,Convertible,15,Theft,Miami,15178,0,Yes,Yes,0.76,0
+C3945,P9945,47,Male,Teacher,Convertible,12,Collision,Boston,25435,3,No,Yes,1.5,0
+C3946,P9946,70,Male,Retired,SUV,2,Collision,New York,37152,1,Yes,No,5.31,0
+C3947,P9947,46,Male,Doctor,Truck,1,Theft,Los Angeles,13764,4,Yes,Yes,2.29,0
+C3948,P9948,34,Male,Retired,Sedan,3,Theft,New York,12339,4,Yes,Yes,1.54,0
+C3949,P9949,61,Male,Student,SUV,6,Theft,Chicago,30697,3,No,No,2.79,0
+C3950,P9950,60,Male,Lawyer,Convertible,15,Fire,New York,8565,2,Yes,Yes,0.43,0
+C3951,P9951,30,Female,Doctor,Truck,6,Fire,Miami,42490,3,Yes,Yes,3.86,0
+C3952,P9952,52,Female,Businessman,Sedan,6,Theft,New York,42052,4,Yes,No,3.82,0
+C3953,P9953,31,Male,Businessman,Convertible,13,Fire,Dallas,5051,2,No,No,0.28,0
+C3954,P9954,49,Female,Teacher,Truck,12,Collision,Dallas,46315,7,No,No,2.72,0
+C3955,P9955,35,Female,Doctor,SUV,4,Theft,Los Angeles,30427,3,No,Yes,3.38,0
+C3956,P9956,37,Female,Student,Sedan,15,Collision,Chicago,36880,1,Yes,Yes,1.84,0
+C3957,P9957,36,Female,Lawyer,Truck,4,Fire,New York,31290,5,No,No,3.48,0
+C3958,P9958,47,Female,Student,Truck,13,Collision,Chicago,18692,6,Yes,Yes,1.04,0
+C3959,P9959,46,Male,Retired,SUV,6,Theft,Chicago,56020,1,No,Yes,5.09,0
+C3960,P9960,24,Male,Engineer,Truck,1,Fire,Los Angeles,22673,3,No,No,3.78,0
+C3961,P9961,37,Female,Teacher,Sedan,14,Fire,Boston,36394,4,Yes,No,1.92,0
+C3962,P9962,36,Female,Businessman,Convertible,7,Fire,Boston,1579,7,Yes,No,0.13,0
+C3963,P9963,32,Male,Doctor,Sedan,8,Theft,Dallas,39269,7,No,No,3.02,0
+C3964,P9964,68,Male,Retired,Sedan,7,Fire,Miami,14535,7,No,Yes,1.21,0
+C3965,P9965,41,Male,Lawyer,Sedan,5,Fire,New York,33554,5,No,Yes,3.36,0
+C3966,P9966,44,Female,Doctor,Convertible,13,Fire,Dallas,20437,5,Yes,Yes,1.14,0
+C3967,P9967,26,Male,Retired,Convertible,7,Theft,Miami,4975,6,Yes,No,0.41,0
+C3968,P9968,24,Female,Lawyer,Convertible,11,Collision,New York,12034,1,Yes,Yes,0.75,0
+C3969,P9969,70,Female,Engineer,Sedan,4,Theft,Miami,19400,3,Yes,No,2.16,0
+C3970,P9970,60,Male,Student,SUV,6,Fire,New York,12060,5,No,No,1.1,0
+C3971,P9971,28,Male,Teacher,Convertible,8,Fire,New York,26293,3,Yes,Yes,2.02,0
+C3972,P9972,37,Female,Businessman,Convertible,3,Fire,Dallas,21136,3,No,No,2.64,0
+C3973,P9973,30,Male,Teacher,Convertible,2,Collision,Dallas,53724,3,No,No,7.67,0
+C3974,P9974,47,Female,Lawyer,SUV,12,Theft,Chicago,43155,7,No,No,2.54,0
+C3975,P9975,43,Male,Student,Sedan,3,Fire,Boston,29116,7,No,Yes,3.64,0
+C3976,P9976,62,Male,Student,SUV,4,Theft,Chicago,58639,4,Yes,Yes,6.52,0
+C3977,P9977,49,Female,Businessman,SUV,6,Theft,New York,33856,5,No,No,3.08,0
+C3978,P9978,28,Female,Teacher,SUV,8,Theft,New York,42668,7,No,No,3.28,0
+C3979,P9979,65,Female,Businessman,Sedan,7,Theft,New York,17223,1,Yes,No,1.44,0
+C3980,P9980,60,Female,Student,Convertible,2,Theft,Dallas,43858,3,No,Yes,6.27,0
+C3981,P9981,48,Female,Businessman,Sedan,3,Theft,Dallas,7387,2,No,Yes,0.92,0
+C3982,P9982,52,Female,Teacher,SUV,11,Theft,Boston,18707,2,No,No,1.17,0
+C3983,P9983,29,Male,Doctor,SUV,15,Fire,Dallas,14966,7,Yes,Yes,0.75,0
+C3984,P9984,42,Female,Student,SUV,10,Theft,New York,51420,6,Yes,Yes,3.43,0
+C3985,P9985,41,Male,Teacher,SUV,1,Collision,New York,1754,5,Yes,Yes,0.29,0
+C3986,P9986,32,Male,Businessman,Sedan,12,Theft,New York,28042,1,No,No,1.65,0
+C3987,P9987,53,Male,Lawyer,Sedan,15,Fire,Miami,28841,1,Yes,Yes,1.44,0
+C3988,P9988,24,Female,Retired,Sedan,1,Collision,Boston,21525,0,No,Yes,3.59,0
+C3989,P9989,47,Male,Engineer,Truck,11,Fire,Chicago,3679,1,Yes,No,0.23,0
+C3990,P9990,37,Female,Engineer,Sedan,5,Theft,Dallas,22056,6,Yes,No,2.21,0
+C3991,P9991,29,Female,Businessman,Convertible,2,Collision,New York,40680,7,No,Yes,5.81,0
+C3992,P9992,50,Male,Teacher,SUV,10,Theft,Chicago,16292,6,Yes,Yes,1.09,0
+C3993,P9993,21,Male,Retired,Convertible,5,Theft,Los Angeles,25425,3,Yes,Yes,2.54,0
+C3994,P9994,64,Female,Doctor,Truck,3,Collision,Chicago,42979,0,No,No,5.37,0
+C3995,P9995,66,Male,Teacher,Truck,6,Theft,Los Angeles,36144,0,Yes,Yes,3.29,0
+C3996,P9996,56,Female,Lawyer,Truck,3,Collision,Boston,1196,1,No,Yes,0.15,0
+C3997,P9997,30,Male,Doctor,Sedan,4,Theft,New York,12182,3,Yes,Yes,1.35,0
+C3998,P9998,45,Female,Retired,Sedan,12,Theft,Los Angeles,28588,2,Yes,No,1.68,0
+C3999,P9999,36,Female,Doctor,Sedan,5,Collision,New York,24365,6,No,Yes,2.44,0
